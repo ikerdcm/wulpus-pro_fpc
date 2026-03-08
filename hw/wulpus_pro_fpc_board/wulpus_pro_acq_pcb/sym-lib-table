@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IXDD609D2TR")(type "Altium")(uri "/Users/iker/Projects/ETHZ/Semester Project/wulpus-pro_fpc/hw/wulpus_pro_acq_pcb_dev_board/libs/IXDD609D2TR.SchLib")(options "")(descr ""))
+  (lib (name "MD01000")(type "Altium")(uri "/Users/iker/Projects/ETHZ/Semester Project/wulpus-pro_fpc/hw/wulpus_pro_acq_pcb_dev_board/libs/MD01000.SchLib")(options "")(descr ""))
+  (lib (name "SN74AVC4T774RSVR")(type "Altium")(uri "/Users/iker/Projects/ETHZ/Semester Project/wulpus-pro_fpc/hw/wulpus_pro_acq_pcb_dev_board/libs/SN74AVC4T774RSVR.SchLib")(options "")(descr ""))
+  (lib (name "TPS22916CYFPR")(type "Altium")(uri "/Users/iker/Projects/ETHZ/Semester Project/wulpus-pro_fpc/hw/wulpus_pro_acq_pcb_dev_board/libs/TPS22916CYFPR.SchLib")(options "")(descr ""))
+  (lib (name "TS5A3159AYZPR")(type "Altium")(uri "/Users/iker/Projects/ETHZ/Semester Project/wulpus-pro_fpc/hw/wulpus_pro_acq_pcb_dev_board/libs/TS5A3159AYZPR.SchLib")(options "")(descr ""))
+  (lib (name "cmut_conn")(type "Altium")(uri "/Users/iker/Projects/ETHZ/Semester Project/wulpus-pro_fpc/hw/wulpus_pro_acq_pcb_dev_board/libs/cmut_conn.SCHLIB")(options "")(descr ""))
+  (lib (name "host_connectors")(type "Altium")(uri "/Users/iker/Projects/ETHZ/Semester Project/wulpus-pro_fpc/hw/wulpus_pro_acq_pcb_dev_board/libs/host_connectors.SCHLIB")(options "")(descr ""))
+  (lib (name "wulpus")(type "Altium")(uri "/Users/iker/Projects/ETHZ/Semester Project/wulpus-pro_fpc/hw/wulpus_pro_acq_pcb_dev_board/libs/wulpus.SCHLIB")(options "")(descr ""))
+  (lib (name "wulpus_hv")(type "Altium")(uri "/Users/iker/Projects/ETHZ/Semester Project/wulpus-pro_fpc/hw/wulpus_pro_acq_pcb_dev_board/libs/wulpus_hv.SCHLIB")(options "")(descr ""))
+  (lib (name "wulpus_pro_acq_pcb-altium-import")(type "KiCad")(uri "${KIPRJMOD}/wulpus_pro_acq_pcb-altium-import.kicad_sym")(options "")(descr ""))
+)
