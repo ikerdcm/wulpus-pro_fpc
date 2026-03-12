@@ -10,4 +10,5 @@
   (lib (name "wulpus")(type "Altium")(uri "/Users/iker/Projects/ETHZ/Semester Project/wulpus-pro_fpc/hw/wulpus_pro_acq_pcb_dev_board/libs/wulpus.SCHLIB")(options "")(descr ""))
   (lib (name "wulpus_hv")(type "Altium")(uri "/Users/iker/Projects/ETHZ/Semester Project/wulpus-pro_fpc/hw/wulpus_pro_acq_pcb_dev_board/libs/wulpus_hv.SCHLIB")(options "")(descr ""))
   (lib (name "wulpus_pro_acq_pcb-altium-import")(type "KiCad")(uri "${KIPRJMOD}/wulpus_pro_acq_pcb-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "BAV99T-7-F")(type "KiCad")(uri "/Users/iker/Downloads/LIB_BAV99T-7-F/BAV99T-7-F/KiCad/BAV99T-7-F.kicad_sym")(options "")(descr ""))
 )
