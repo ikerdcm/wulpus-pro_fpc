@@ -6017,7 +6017,7 @@
 	)
 	(wire
 		(pts
-			(xy 300.99 33.02) (xy 300.99 34.29)
+			(xy 300.99 31.75) (xy 300.99 34.29)
 		)
 		(stroke
 			(width 0)
@@ -6437,7 +6437,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 157.48) (xy 327.66 157.48)
+			(xy 316.23 157.48) (xy 328.93 157.48)
 		)
 		(stroke
 			(width 0)
@@ -6647,7 +6647,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 232.41) (xy 127 232.41)
+			(xy 121.92 232.41) (xy 127 232.41)
 		)
 		(stroke
 			(width 0)
@@ -134576,12 +134576,12 @@
 		)
 	)
 	(label "HV_EN2"
-		(at 318.77 157.48 0)
+		(at 328.93 157.48 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "51ae2560-b453-4626-91f0-75a1dad70b20")
 	)
@@ -134606,12 +134606,12 @@
 		(uuid "88d34bc9-1f07-4529-bfd9-e191aee0a76c")
 	)
 	(label "HV_EN1"
-		(at 318.77 153.67 0)
+		(at 327.66 153.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "ad2cec4b-5966-4355-b492-4a45aa362f4e")
 	)
@@ -142576,7 +142576,7 @@
 	)
 	(symbol
 		(lib_id "wulpus_pro_acq_pcb-altium-import:+V_RX_CONN_BAR")
-		(at 123.19 232.41 270)
+		(at 121.92 232.41 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -142584,7 +142584,7 @@
 		(dnp no)
 		(uuid "48d242ed-3b79-4cd9-91b2-b465b41b67cf")
 		(property "Reference" "#PWR0129"
-			(at 123.19 232.41 0)
+			(at 121.92 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -142593,7 +142593,7 @@
 			)
 		)
 		(property "Value" "+V_RX_CONN"
-			(at 119.38 232.41 90)
+			(at 118.11 232.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -142602,7 +142602,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 123.19 232.41 0)
+			(at 121.92 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -142610,7 +142610,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 232.41 0)
+			(at 121.92 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -142618,7 +142618,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 232.41 0)
+			(at 121.92 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -147344,7 +147344,7 @@
 	)
 	(symbol
 		(lib_id "wulpus_pro_acq_pcb-altium-import:VOUT_NEG_BAR")
-		(at 300.99 33.02 180)
+		(at 300.99 31.75 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -147352,7 +147352,7 @@
 		(dnp no)
 		(uuid "6cc2e4dc-6323-41e0-a769-20533c182899")
 		(property "Reference" "#PWR0106"
-			(at 300.99 33.02 0)
+			(at 300.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -147361,7 +147361,7 @@
 			)
 		)
 		(property "Value" "VOUT_NEG"
-			(at 300.99 29.21 0)
+			(at 300.99 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -147369,7 +147369,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 300.99 33.02 0)
+			(at 300.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -147377,7 +147377,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 300.99 33.02 0)
+			(at 300.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -147385,7 +147385,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 300.99 33.02 0)
+			(at 300.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
