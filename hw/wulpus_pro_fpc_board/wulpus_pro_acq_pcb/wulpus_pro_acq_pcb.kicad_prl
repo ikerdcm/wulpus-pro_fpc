@@ -7,7 +7,8 @@
     "hidden_nets": [
       "GND",
       "+V_RX",
-      "+VBAT_STM"
+      "+VBAT_STM",
+      "/U_hv_mux_tr_sw/TX_RX"
     ],
     "high_contrast_mode": 1,
     "net_color_mode": 1,

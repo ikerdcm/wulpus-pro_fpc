@@ -1631,7 +1631,7 @@
 	)
 	(text_box "Buffer:\n	Resistor: 0R\n	Capacitor: DNP\n\nLPF:\n	Resistor: 400R\n	Capacitor: 100p\n\n"
 		(exclude_from_sim no)
-		(at 163.83 71.12 0)
+		(at 162.56 67.31 0)
 		(size 27.94 16.51)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke

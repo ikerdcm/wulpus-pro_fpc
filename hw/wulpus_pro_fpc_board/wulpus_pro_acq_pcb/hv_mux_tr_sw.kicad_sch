@@ -1272,190 +1272,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "ETHZ Vault:U_hv_mux_tr_sw_0_Solder Jumper 3-pads_ETHZ Vault"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Solder Jumper 3 Pads"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*Jumper{space}3{space}pins*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "U_hv_mux_tr_sw_0_Solder Jumper 3-pads_ETHZ Vault_1_0"
-				(rectangle
-					(start 3.556 1.016)
-					(end 2.54 -1.016)
-					(stroke
-						(width 0.0254)
-						(type solid)
-						(color 128 0 0 1)
-					)
-					(fill
-						(type color)
-						(color 0 0 128 1)
-					)
-				)
-				(rectangle
-					(start 5.08 1.016)
-					(end 4.064 -1.016)
-					(stroke
-						(width 0.0254)
-						(type solid)
-						(color 128 0 0 1)
-					)
-					(fill
-						(type color)
-						(color 0 0 128 1)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 8.636 1.016)
-					(end 7.62 -1.016)
-					(stroke
-						(width 0.0254)
-						(type solid)
-						(color 128 0 0 1)
-					)
-					(fill
-						(type color)
-						(color 0 0 128 1)
-					)
-				)
-				(rectangle
-					(start 10.16 1.016)
-					(end 9.144 -1.016)
-					(stroke
-						(width 0.0254)
-						(type solid)
-						(color 128 0 0 1)
-					)
-					(fill
-						(type color)
-						(color 0 0 128 1)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 6.35 -2.54 90)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 0 180)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "U_hv_mux_tr_sw_1_1029c3af85768c4190bb7ad29bc67b5_Altium Content Vault_1"
 			(pin_names
 				(hide yes)
@@ -1860,6 +1676,229 @@
 						)
 					)
 					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "dz_parts:g_res/R-0-0402"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "0"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/general-purpose-chip-resistors/models/ERJ2GE0R00X"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Res 0Ω 0.1W 0402 Thick Film jumper"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "IPN" "R-0-0402"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "ERJ-2GE0R00X"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Panasonic"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Resistance" "0"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Power" "0.1W"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Material" "Thick Film"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "5%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "Mouser"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "SPN" "667-ERJ-2GE0R00X"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C17168"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Resistor_SMD:R_0402_1005Metric"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "g_res/R-0-0402_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "g_res/R-0-0402_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -10219,8 +10258,8 @@
 		(uuid d1de7bfc-4073-47b0-a2da-1b42ace8115e)
 	)
 	(rectangle
-		(start 144.78 225.8822)
-		(end 109.22 275.4122)
+		(start 109.22 225.8822)
+		(end 144.78 275.4122)
 		(stroke
 			(width 0.0254)
 			(type solid)
@@ -10343,8 +10382,8 @@
 	)
 	(text_box "-HV is -30V Max. Caps are 0.3 uF at 30V bias"
 		(exclude_from_sim no)
-		(at 125.73 177.8 0)
-		(size -19.05 12.7)
+		(at 106.68 177.8 0)
+		(size 19.05 12.7)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -10742,6 +10781,12 @@
 		(uuid "84343cad-086e-4f6d-ad42-c41a620de881")
 	)
 	(junction
+		(at 196.85 213.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8a17660c-9126-484e-a176-a79352d4b607")
+	)
+	(junction
 		(at 237.49 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10752,6 +10797,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9b5e2787-2f8f-4192-bcb8-f54511205de3")
+	)
+	(junction
+		(at 135.89 161.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a0e5550d-a405-46f2-ac64-eda4c2a651fc")
+	)
+	(junction
+		(at 157.48 161.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a749bd35-8510-4e30-879b-b77e199ae00c")
 	)
 	(junction
 		(at 360.68 199.39)
@@ -10814,12 +10871,6 @@
 		(uuid "b9513eb0-5b2e-490d-bad0-83a66a94824c")
 	)
 	(junction
-		(at 135.89 161.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "befa4046-5034-4cf8-ac02-276aba1adbe4")
-	)
-	(junction
 		(at 201.93 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10842,6 +10893,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cd9eb74a-9efc-401b-a436-00c39cd527a4")
+	)
+	(junction
+		(at 219.71 203.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cec9ddf4-a900-4a85-bdb4-4a6e074a366d")
 	)
 	(junction
 		(at 360.68 81.28)
@@ -11133,16 +11190,6 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 213.36) (xy 219.71 205.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d3472fd-097b-4b74-be9d-c7da673219fe")
-	)
-	(wire
-		(pts
 			(xy 48.26 116.84) (xy 83.82 116.84)
 		)
 		(stroke
@@ -11293,16 +11340,6 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 184.15) (xy 157.48 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26c3e887-8953-4a25-aadc-8b8f53b7dfe5")
-	)
-	(wire
-		(pts
 			(xy 172.72 267.97) (xy 172.72 271.78)
 		)
 		(stroke
@@ -11443,7 +11480,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 213.36) (xy 219.71 213.36)
+			(xy 205.74 213.36) (xy 219.71 213.36)
 		)
 		(stroke
 			(width 0)
@@ -11460,6 +11497,16 @@
 			(type default)
 		)
 		(uuid "3338c880-9b40-4a92-bb60-cc46020146c5")
+	)
+	(wire
+		(pts
+			(xy 218.44 203.2) (xy 219.71 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34500e8d-fac6-42c8-b6d9-a112be4cfc92")
 	)
 	(wire
 		(pts
@@ -11603,7 +11650,17 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 161.29) (xy 163.83 166.37)
+			(xy 196.85 215.9) (xy 196.85 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47c1776e-ed48-4a54-a3c6-7d7a7b033b27")
+	)
+	(wire
+		(pts
+			(xy 165.1 161.29) (xy 165.1 166.37)
 		)
 		(stroke
 			(width 0)
@@ -11680,6 +11737,16 @@
 			(type default)
 		)
 		(uuid "4deb6188-f520-46a3-a457-1f2f0288ffaa")
+	)
+	(wire
+		(pts
+			(xy 219.71 203.2) (xy 220.98 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e7bb7cd-c748-45c3-8aed-166c29fdeb69")
 	)
 	(wire
 		(pts
@@ -11820,6 +11887,16 @@
 			(type default)
 		)
 		(uuid "5b7a1b33-c622-4e95-a4c3-c438ae0b34f9")
+	)
+	(wire
+		(pts
+			(xy 135.89 161.29) (xy 149.86 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c010796-2754-4a34-84e7-805d58c92454")
 	)
 	(wire
 		(pts
@@ -12223,6 +12300,16 @@
 	)
 	(wire
 		(pts
+			(xy 219.71 203.2) (xy 219.71 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "817e034c-da2d-46a4-ad73-1a2634cd7395")
+	)
+	(wire
+		(pts
 			(xy 158.75 250.19) (xy 194.31 250.19)
 		)
 		(stroke
@@ -12483,7 +12570,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 203.2) (xy 213.36 203.2)
+			(xy 209.55 203.2) (xy 210.82 203.2)
 		)
 		(stroke
 			(width 0)
@@ -12643,6 +12730,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 213.36) (xy 198.12 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af9efa1c-2e70-49f1-abff-464abefbde66")
+	)
+	(wire
+		(pts
 			(xy 121.92 66.04) (xy 133.35 66.04)
 		)
 		(stroke
@@ -12763,7 +12860,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 203.2) (xy 226.06 203.2)
+			(xy 229.87 203.2) (xy 228.6 203.2)
 		)
 		(stroke
 			(width 0)
@@ -13153,16 +13250,6 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 161.29) (xy 151.13 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e10513d0-c2ba-4902-bc40-3883e0448baa")
-	)
-	(wire
-		(pts
 			(xy 176.53 57.15) (xy 176.53 59.69)
 		)
 		(stroke
@@ -13250,6 +13337,16 @@
 			(type default)
 		)
 		(uuid "eade55ca-d1bb-4d5f-afe8-fa1a4c5b6ba1")
+	)
+	(wire
+		(pts
+			(xy 157.48 161.29) (xy 157.48 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec5f8095-47e5-4c2a-a0f0-7ceb9b61e083")
 	)
 	(wire
 		(pts
@@ -13380,6 +13477,16 @@
 			(type default)
 		)
 		(uuid "fa8a4635-a0f1-4f19-a7ce-3dae4aebd4ed")
+	)
+	(wire
+		(pts
+			(xy 196.85 213.36) (xy 195.58 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fae3cf37-9418-4b3f-97c2-f78b8706ec7d")
 	)
 	(wire
 		(pts
@@ -14458,6 +14565,172 @@
 			(justify right)
 		)
 		(uuid "dbefd35e-06d5-494a-9c76-da02be3673c2")
+	)
+	(symbol
+		(lib_id "dz_parts:g_res/R-0-0402")
+		(at 214.63 203.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "028d1e01-fce8-465b-bc9f-8ac4e05e5d76")
+		(property "Reference" "R111"
+			(at 212.598 200.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 217.17 200.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 214.63 204.978 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/general-purpose-chip-resistors/models/ERJ2GE0R00X"
+			(at 214.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Res 0Ω 0.1W 0402 Thick Film jumper"
+			(at 214.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IPN" "R-0-0402"
+			(at 214.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-2GE0R00X"
+			(at 214.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 214.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "0"
+			(at 214.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.1W"
+			(at 214.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Material" "Thick Film"
+			(at 214.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 214.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 214.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "667-ERJ-2GE0R00X"
+			(at 214.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17168"
+			(at 214.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
+			(at 214.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fa42c8ed-f291-42e7-9c89-c4d5dad022b3")
+		)
+		(pin "2"
+			(uuid "dbc722bd-7eed-4044-b941-147f29c199ed")
+		)
+		(instances
+			(project "wulpus_pro_acq_pcb"
+				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/de2325be-b136-4093-bd5d-f5ccd745f72c"
+					(reference "R111")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "wulpus_pro_acq_pcb-altium-import:GND_POWER_GROUND")
@@ -17376,7 +17649,7 @@
 	)
 	(symbol
 		(lib_id "wulpus_pro_acq_pcb-altium-import:GND_POWER_GROUND")
-		(at 163.83 166.37 0)
+		(at 165.1 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17384,7 +17657,7 @@
 		(dnp no)
 		(uuid "1fd3d826-507c-4c2a-8839-0d94b4b76158")
 		(property "Reference" "#PWR064"
-			(at 163.83 166.37 0)
+			(at 165.1 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17393,7 +17666,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 163.83 172.72 0)
+			(at 165.1 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17401,7 +17674,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 163.83 166.37 0)
+			(at 165.1 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17409,7 +17682,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 166.37 0)
+			(at 165.1 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17417,7 +17690,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 163.83 166.37 0)
+			(at 165.1 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17438,7 +17711,7 @@
 	)
 	(symbol
 		(lib_id "wulpus_pro_acq_pcb-altium-import:-HV_BAR")
-		(at 228.6 203.2 90)
+		(at 229.87 203.2 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17446,7 +17719,7 @@
 		(dnp no)
 		(uuid "20bb46ee-4b4e-4904-8fa1-fc443ccd0e8e")
 		(property "Reference" "#PWR070"
-			(at 228.6 203.2 0)
+			(at 229.87 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17455,7 +17728,7 @@
 			)
 		)
 		(property "Value" "-HV"
-			(at 232.41 203.2 90)
+			(at 233.68 203.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17464,7 +17737,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 228.6 203.2 0)
+			(at 229.87 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17472,7 +17745,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 203.2 0)
+			(at 229.87 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17480,7 +17753,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 228.6 203.2 0)
+			(at 229.87 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17557,691 +17830,6 @@
 			(project "wulpus_pro_acq_pcb"
 				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/de2325be-b136-4093-bd5d-f5ccd745f72c"
 					(reference "#PWR071")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ETHZ Vault:U_hv_mux_tr_sw_0_Solder Jumper 3-pads_ETHZ Vault")
-		(at 213.36 203.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2e71f563-fea7-46db-b3b3-dd58941a31f6")
-		(property "Reference" "J6"
-			(at 213.36 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "Solder Jumper"
-			(at 220.98 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper 3 Pads"
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" "SMT"
-			(at 212.852 202.184 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FORWARD CURRENT" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX REPETITIVE REVERSE VOLTAGE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX SURGE FORWARD CURRENT" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PEAK REVERSE CURRENT" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REVERSE VOLTAGE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "AVERAGE RECTIFIED CURRENT" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COLOR" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONN GENDER" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONN ORIENTATION" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DOMINANT WAVELENGTH" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FORWARD VOLTAGE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IS FEMALE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LENS COLOR" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LENS SIZE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LENS STYLE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LENS TRANSPARENCY" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LUMINOUS INTENSITY" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX REVERSE VOLTAGE (DC)" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RMS CURRENT (IRMS)" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TEST CURRENT" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VIEWING ANGLE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet Link" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Geometry.Height" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Copyright" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr_Name" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RefDes" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description_1" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey_Part_Number" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CORE MATERIAL" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DC RESISTANCE (DCR)" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "INDUCTANCE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SATURATION CURRENT" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SELF RESONANT FREQUENCY" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SHIELDING" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TEST FREQUENCY" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BODY MATERIAL" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BODY PLATING" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FASTENING TYPE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "HOUSING COLOR" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OPERATING FREQUENCY" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES RESISTANCE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "WIRE/CABLE TYPE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BANDWIDTH" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ESR (EQUIVALENT SERIES RESISTANCE)" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FREQUENCY STABILITY" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FREQUENCY TOLERANCE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GEOMETRY.HEIGHT" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LOAD CAPACITANCE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX FREQUENCY" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX JUNCTION TEMP" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX SUPPLY VOLTAGE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MIN SUPPLY VOLTAGE" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "NOMINAL SUPPLY CURRENT" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OUTPUT CURRENT PER CHANNEL" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "STANDOFF HEIGHT" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 1" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE GAIN" ""
-			(at 213.36 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0c573fa0-a50f-47a2-a953-6d318ea71b61")
-		)
-		(pin "1"
-			(uuid "85b2fb1d-c562-42e2-8bbe-6c2f43697d7e")
-		)
-		(pin "3"
-			(uuid "fe4b7f23-c509-4173-9ae2-6d4d442c9c18")
-		)
-		(instances
-			(project "wulpus_pro_acq_pcb"
-				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/de2325be-b136-4093-bd5d-f5ccd745f72c"
-					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -21210,691 +20798,6 @@
 			(project "wulpus_pro_acq_pcb"
 				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/de2325be-b136-4093-bd5d-f5ccd745f72c"
 					(reference "#PWR068")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ETHZ Vault:U_hv_mux_tr_sw_0_Solder Jumper 3-pads_ETHZ Vault")
-		(at 151.13 161.29 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "54546e0b-81f8-44ea-84d3-75025152840e")
-		(property "Reference" "J4"
-			(at 148.59 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "Solder Jumper"
-			(at 153.67 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper 3 Pads"
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" "SMT"
-			(at 150.622 160.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FORWARD CURRENT" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX REPETITIVE REVERSE VOLTAGE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX SURGE FORWARD CURRENT" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PEAK REVERSE CURRENT" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REVERSE VOLTAGE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "AVERAGE RECTIFIED CURRENT" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COLOR" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONN GENDER" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONN ORIENTATION" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DOMINANT WAVELENGTH" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FORWARD VOLTAGE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IS FEMALE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LENS COLOR" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LENS SIZE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LENS STYLE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LENS TRANSPARENCY" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LUMINOUS INTENSITY" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX REVERSE VOLTAGE (DC)" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RMS CURRENT (IRMS)" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TEST CURRENT" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VIEWING ANGLE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet Link" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Geometry.Height" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Copyright" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr_Name" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RefDes" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description_1" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey_Part_Number" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CORE MATERIAL" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DC RESISTANCE (DCR)" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "INDUCTANCE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SATURATION CURRENT" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SELF RESONANT FREQUENCY" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SHIELDING" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TEST FREQUENCY" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BODY MATERIAL" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BODY PLATING" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FASTENING TYPE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "HOUSING COLOR" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OPERATING FREQUENCY" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES RESISTANCE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "WIRE/CABLE TYPE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BANDWIDTH" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ESR (EQUIVALENT SERIES RESISTANCE)" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FREQUENCY STABILITY" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FREQUENCY TOLERANCE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GEOMETRY.HEIGHT" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LOAD CAPACITANCE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX FREQUENCY" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX JUNCTION TEMP" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX SUPPLY VOLTAGE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MIN SUPPLY VOLTAGE" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "NOMINAL SUPPLY CURRENT" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OUTPUT CURRENT PER CHANNEL" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "STANDOFF HEIGHT" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 1" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE GAIN" ""
-			(at 151.13 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "302479e4-2e28-4c9b-b205-ace388d40ed2")
-		)
-		(pin "1"
-			(uuid "d9291684-e06a-4194-a5ac-7d3010b05976")
-		)
-		(pin "3"
-			(uuid "b4d73552-0ad9-4999-b02b-e91a445994f5")
-		)
-		(instances
-			(project "wulpus_pro_acq_pcb"
-				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/de2325be-b136-4093-bd5d-f5ccd745f72c"
-					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -26356,6 +25259,172 @@
 		)
 	)
 	(symbol
+		(lib_id "dz_parts:g_res/R-0-0402")
+		(at 191.77 213.36 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6b34af95-bb16-4c33-be7a-0402c348a08d")
+		(property "Reference" "R114"
+			(at 189.738 210.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 194.31 210.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 191.77 215.138 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/general-purpose-chip-resistors/models/ERJ2GE0R00X"
+			(at 191.77 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Res 0Ω 0.1W 0402 Thick Film jumper"
+			(at 191.77 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IPN" "R-0-0402"
+			(at 191.77 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-2GE0R00X"
+			(at 191.77 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 191.77 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "0"
+			(at 191.77 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.1W"
+			(at 191.77 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Material" "Thick Film"
+			(at 191.77 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 191.77 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 191.77 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "667-ERJ-2GE0R00X"
+			(at 191.77 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17168"
+			(at 191.77 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
+			(at 191.77 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5aa85f71-383a-4261-ba7b-8834af6bf3a1")
+		)
+		(pin "2"
+			(uuid "cbd17eec-d48d-4e32-b20f-5e3e19a72b64")
+		)
+		(instances
+			(project "wulpus_pro_acq_pcb"
+				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/de2325be-b136-4093-bd5d-f5ccd745f72c"
+					(reference "R114")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Altium Content Vault:U_hv_mux_tr_sw_1_CAP_Altium Content Vault_0")
 		(at 45.72 123.19 0)
 		(unit 1)
@@ -27359,7 +26428,7 @@
 	)
 	(symbol
 		(lib_id "wulpus_pro_acq_pcb-altium-import:GND_POWER_GROUND")
-		(at 190.5 213.36 270)
+		(at 187.96 213.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27367,7 +26436,7 @@
 		(dnp no)
 		(uuid "75035730-4a13-4e11-b928-21e16aec2b2d")
 		(property "Reference" "#PWR074"
-			(at 190.5 213.36 0)
+			(at 187.96 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27376,7 +26445,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 184.15 213.36 90)
+			(at 181.61 213.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27385,7 +26454,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 213.36 0)
+			(at 187.96 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27393,7 +26462,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 213.36 0)
+			(at 187.96 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27401,7 +26470,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 190.5 213.36 0)
+			(at 187.96 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32947,8 +32016,174 @@
 		)
 	)
 	(symbol
+		(lib_id "dz_parts:g_res/R-0-0402")
+		(at 224.79 203.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8819196e-73c4-4a0c-a581-a4c70015a9ec")
+		(property "Reference" "R112"
+			(at 222.758 200.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 227.33 200.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 224.79 204.978 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/general-purpose-chip-resistors/models/ERJ2GE0R00X"
+			(at 224.79 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Res 0Ω 0.1W 0402 Thick Film jumper"
+			(at 224.79 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IPN" "R-0-0402"
+			(at 224.79 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-2GE0R00X"
+			(at 224.79 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 224.79 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "0"
+			(at 224.79 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.1W"
+			(at 224.79 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Material" "Thick Film"
+			(at 224.79 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 224.79 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 224.79 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "667-ERJ-2GE0R00X"
+			(at 224.79 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17168"
+			(at 224.79 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
+			(at 224.79 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "378b1a44-5ba7-4be1-b962-134a5830d77a")
+		)
+		(pin "2"
+			(uuid "9a0e2804-05f8-48ee-bc09-a26030387658")
+		)
+		(instances
+			(project "wulpus_pro_acq_pcb"
+				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/de2325be-b136-4093-bd5d-f5ccd745f72c"
+					(reference "R112")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "wulpus_pro_acq_pcb-altium-import:+HV_BAR")
-		(at 212.09 203.2 270)
+		(at 209.55 203.2 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32956,7 +32191,7 @@
 		(dnp no)
 		(uuid "8b0bd5a1-b7d4-454d-999f-e914c94c289b")
 		(property "Reference" "#PWR069"
-			(at 212.09 203.2 0)
+			(at 209.55 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32965,7 +32200,7 @@
 			)
 		)
 		(property "Value" "+HV"
-			(at 208.28 203.2 90)
+			(at 205.74 203.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32974,7 +32209,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 203.2 0)
+			(at 209.55 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32982,7 +32217,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 203.2 0)
+			(at 209.55 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32990,7 +32225,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 212.09 203.2 0)
+			(at 209.55 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38128,6 +37363,172 @@
 		)
 	)
 	(symbol
+		(lib_id "dz_parts:g_res/R-0-0402")
+		(at 161.29 161.29 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b4667587-16b0-4366-aba6-bb516fb993cc")
+		(property "Reference" "R109"
+			(at 160.782 158.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 161.29 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 161.29 163.068 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/general-purpose-chip-resistors/models/ERJ2GE0R00X"
+			(at 161.29 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Res 0Ω 0.1W 0402 Thick Film jumper"
+			(at 161.29 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IPN" "R-0-0402"
+			(at 161.29 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-2GE0R00X"
+			(at 161.29 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 161.29 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "0"
+			(at 161.29 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.1W"
+			(at 161.29 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Material" "Thick Film"
+			(at 161.29 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 161.29 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 161.29 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "667-ERJ-2GE0R00X"
+			(at 161.29 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17168"
+			(at 161.29 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
+			(at 161.29 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6d0d7011-e97e-4493-bc9f-9d07bf608420")
+		)
+		(pin "2"
+			(uuid "c13e7840-75b4-4833-af1f-ae8fa892a4db")
+		)
+		(instances
+			(project "wulpus_pro_acq_pcb"
+				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/de2325be-b136-4093-bd5d-f5ccd745f72c"
+					(reference "R109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "wulpus_pro_acq_pcb-altium-import:GND_POWER_GROUND")
 		(at 185.42 128.27 0)
 		(unit 1)
@@ -38184,6 +37585,172 @@
 			(project "wulpus_pro_acq_pcb"
 				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/de2325be-b136-4093-bd5d-f5ccd745f72c"
 					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "dz_parts:g_res/R-0-0402")
+		(at 153.67 161.29 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b966ab47-e13c-4ba3-bd6f-250a943e4b90")
+		(property "Reference" "R110"
+			(at 151.638 158.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 150.368 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 153.67 163.068 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/general-purpose-chip-resistors/models/ERJ2GE0R00X"
+			(at 153.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Res 0Ω 0.1W 0402 Thick Film jumper"
+			(at 153.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IPN" "R-0-0402"
+			(at 153.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-2GE0R00X"
+			(at 153.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 153.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "0"
+			(at 153.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.1W"
+			(at 153.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Material" "Thick Film"
+			(at 153.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 153.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 153.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "667-ERJ-2GE0R00X"
+			(at 153.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17168"
+			(at 153.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
+			(at 153.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c9718264-2d4d-4c5e-8aad-012a2e0c23b4")
+		)
+		(pin "2"
+			(uuid "5db59add-5776-41ed-863e-a2bccfc29581")
+		)
+		(instances
+			(project "wulpus_pro_acq_pcb"
+				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/de2325be-b136-4093-bd5d-f5ccd745f72c"
+					(reference "R110")
 					(unit 1)
 				)
 			)
@@ -41304,691 +40871,6 @@
 		)
 	)
 	(symbol
-		(lib_id "ETHZ Vault:U_hv_mux_tr_sw_0_Solder Jumper 3-pads_ETHZ Vault")
-		(at 190.5 213.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d0003135-26e0-46df-8424-1ff93945fdec")
-		(property "Reference" "J7"
-			(at 191.77 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "Solder Jumper"
-			(at 200.66 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper 3 Pads"
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" "SMT"
-			(at 189.992 212.344 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FORWARD CURRENT" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX REPETITIVE REVERSE VOLTAGE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX SURGE FORWARD CURRENT" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PEAK REVERSE CURRENT" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REVERSE VOLTAGE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "AVERAGE RECTIFIED CURRENT" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COLOR" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONN GENDER" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONN ORIENTATION" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DOMINANT WAVELENGTH" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FORWARD VOLTAGE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IS FEMALE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LENS COLOR" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LENS SIZE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LENS STYLE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LENS TRANSPARENCY" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LUMINOUS INTENSITY" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX REVERSE VOLTAGE (DC)" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RMS CURRENT (IRMS)" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TEST CURRENT" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VIEWING ANGLE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet Link" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Geometry.Height" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Copyright" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr_Name" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RefDes" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description_1" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey_Part_Number" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CORE MATERIAL" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DC RESISTANCE (DCR)" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "INDUCTANCE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SATURATION CURRENT" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SELF RESONANT FREQUENCY" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SHIELDING" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TEST FREQUENCY" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BODY MATERIAL" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BODY PLATING" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FASTENING TYPE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "HOUSING COLOR" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OPERATING FREQUENCY" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES RESISTANCE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "WIRE/CABLE TYPE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "BANDWIDTH" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ESR (EQUIVALENT SERIES RESISTANCE)" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FREQUENCY STABILITY" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FREQUENCY TOLERANCE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GEOMETRY.HEIGHT" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LOAD CAPACITANCE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX FREQUENCY" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX JUNCTION TEMP" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MAX SUPPLY VOLTAGE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MIN SUPPLY VOLTAGE" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "NOMINAL SUPPLY CURRENT" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OUTPUT CURRENT PER CHANNEL" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "STANDOFF HEIGHT" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 1" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE GAIN" ""
-			(at 190.5 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0c05a3ca-dd4a-45c2-8ede-a2ce63044222")
-		)
-		(pin "1"
-			(uuid "53de9ada-efa6-40bb-bff7-d14fe0bf4dc4")
-		)
-		(pin "3"
-			(uuid "3a92283c-c6b7-47ed-bc4e-5bb8ddd4b788")
-		)
-		(instances
-			(project "wulpus_pro_acq_pcb"
-				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/de2325be-b136-4093-bd5d-f5ccd745f72c"
-					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Altium Content Vault:U_hv_mux_tr_sw_0_1029c3af85768c4190bb7ad29bc67b5_Altium Content Vault")
 		(at 194.31 250.19 0)
 		(unit 1)
@@ -44841,6 +43723,172 @@
 			(project "wulpus_pro_acq_pcb"
 				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/de2325be-b136-4093-bd5d-f5ccd745f72c"
 					(reference "#PWR058")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "dz_parts:g_res/R-0-0402")
+		(at 201.93 213.36 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e28406d7-0715-4e98-a30e-1cd5548e0a09")
+		(property "Reference" "R113"
+			(at 199.898 210.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 204.47 210.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 201.93 215.138 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/general-purpose-chip-resistors/models/ERJ2GE0R00X"
+			(at 201.93 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Res 0Ω 0.1W 0402 Thick Film jumper"
+			(at 201.93 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IPN" "R-0-0402"
+			(at 201.93 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-2GE0R00X"
+			(at 201.93 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 201.93 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "0"
+			(at 201.93 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.1W"
+			(at 201.93 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Material" "Thick Film"
+			(at 201.93 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 201.93 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 201.93 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "667-ERJ-2GE0R00X"
+			(at 201.93 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17168"
+			(at 201.93 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
+			(at 201.93 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a3b20b58-7701-4f87-88f5-8fbe43320523")
+		)
+		(pin "2"
+			(uuid "41326609-e59a-497a-bb51-10e0efe7c473")
+		)
+		(instances
+			(project "wulpus_pro_acq_pcb"
+				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/de2325be-b136-4093-bd5d-f5ccd745f72c"
+					(reference "R113")
 					(unit 1)
 				)
 			)
