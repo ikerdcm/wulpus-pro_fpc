@@ -9071,7 +9071,7 @@
 	)
 	(text "VD0"
 		(exclude_from_sim no)
-		(at 234.188 131.318 0)
+		(at 203.2 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9117,7 +9117,7 @@
 	)
 	(text "VA0"
 		(exclude_from_sim no)
-		(at 234.188 128.778 0)
+		(at 213.614 128.524 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9417,10 +9417,6 @@
 		(uuid "fca71883-8dc2-424c-a475-d4b6bef13582")
 	)
 	(no_connect
-		(at 238.76 130.81)
-		(uuid "14b365bd-65cb-469d-ae67-35b249c43b20")
-	)
-	(no_connect
 		(at 55.88 171.45)
 		(uuid "155b6ffb-ce92-4c0b-80f8-6a9b9e95ff44")
 	)
@@ -9513,10 +9509,6 @@
 		(uuid "cf234def-0faa-4e34-b407-e1a6074a4ffc")
 	)
 	(no_connect
-		(at 238.76 128.27)
-		(uuid "dd8cf36f-d23b-4227-8667-769446975dd9")
-	)
-	(no_connect
 		(at 238.76 80.01)
 		(uuid "ec381dac-cfbe-449e-b35f-1cc8022d3926")
 	)
@@ -9527,6 +9519,10 @@
 	(no_connect
 		(at 238.76 72.39)
 		(uuid "ef5b75d8-7f3e-4d6f-82cd-64cd3641ff06")
+	)
+	(no_connect
+		(at 238.76 46.99)
+		(uuid "f4de0bcf-3360-4a6b-a263-fbad40821a14")
 	)
 	(wire
 		(pts
@@ -9790,6 +9786,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 128.27) (xy 238.76 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5579f432-e519-470f-ba95-50bf535dfc31")
+	)
+	(wire
+		(pts
 			(xy 45.72 168.91) (xy 55.88 168.91)
 		)
 		(stroke
@@ -10007,6 +10013,16 @@
 			(type default)
 		)
 		(uuid "8df2289a-2c37-4594-88c9-38ad5fc38135")
+	)
+	(wire
+		(pts
+			(xy 198.12 130.81) (xy 238.76 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e8c0313-8dc6-41ac-86df-952e2084e41d")
 	)
 	(wire
 		(pts
@@ -10407,16 +10423,6 @@
 			(type default)
 		)
 		(uuid "e431b9bd-e844-4338-a7c3-fcde5087f8bd")
-	)
-	(wire
-		(pts
-			(xy 217.17 46.99) (xy 238.76 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "edee90e1-09d1-4281-94a5-43bc7b94ada1")
 	)
 	(wire
 		(pts
@@ -14218,69 +14224,6 @@
 		)
 	)
 	(symbol
-		(lib_id "wulpus_pro_acq_pcb-altium-import:+5V_BAR")
-		(at 217.17 46.99 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "34eca379-edda-4099-9fc3-3d2d95f40a6c")
-		(property "Reference" "#PWR0139"
-			(at 217.17 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 213.36 46.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 217.17 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 217.17 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 217.17 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin ""
-			(uuid "6e57f209-a938-4d28-a219-e9404451362a")
-		)
-		(instances
-			(project "wulpus_pro_acq_pcb"
-				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/3f760986-79d5-42e5-ba13-222a6d3ac1d9"
-					(reference "#PWR0139")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "wulpus_pro_acq_pcb-altium-import:+V_RX_CONN_BAR")
 		(at 139.7 128.27 180)
 		(unit 1)
@@ -15508,6 +15451,69 @@
 			(project "wulpus_pro_acq_pcb"
 				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/3f760986-79d5-42e5-ba13-222a6d3ac1d9"
 					(reference "#PWR0141")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "wulpus_pro_acq_pcb-altium-import:+5V_BAR")
+		(at 198.12 130.81 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "653e3daa-b9f8-4007-afa6-2bc5f848964b")
+		(property "Reference" "#PWR0139"
+			(at 198.12 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 198.12 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 198.12 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 198.12 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 198.12 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "19d46c35-0ccd-4970-8e2c-d35b76c9f140")
+		)
+		(instances
+			(project "wulpus_pro_acq_pcb"
+				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/3f760986-79d5-42e5-ba13-222a6d3ac1d9"
+					(reference "#PWR0139")
 					(unit 1)
 				)
 			)
@@ -18851,6 +18857,68 @@
 			(project "wulpus_pro_acq_pcb"
 				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/3f760986-79d5-42e5-ba13-222a6d3ac1d9"
 					(reference "X1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "wulpus_pro_acq_pcb-altium-import:+V_RX_CONN_BAR")
+		(at 207.01 128.27 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8f709a40-f1cc-4fa0-be71-504ae3ef8f5b")
+		(property "Reference" "#PWR0185"
+			(at 207.01 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+V_RX_CONN"
+			(at 207.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 207.01 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 207.01 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "51fe7457-a01c-43dd-ab35-143e7364b07d")
+		)
+		(instances
+			(project "wulpus_pro_acq_pcb"
+				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/3f760986-79d5-42e5-ba13-222a6d3ac1d9"
+					(reference "#PWR0185")
 					(unit 1)
 				)
 			)

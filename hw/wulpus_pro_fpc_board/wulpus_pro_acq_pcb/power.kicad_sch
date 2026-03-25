@@ -990,6 +990,244 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "dz_parts:g_cap/C-2.2u-0402"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "2.2uF"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+				(at 0.9652 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61E225KE11D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Cap 2.2uF 25V 0402 X5R ±10%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "IPN" "C-2.2u-0402"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "GRM155R61E225KE11"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Murata"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Capacitance" "2.2uF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Voltage" "25V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Material" "X5R"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "10%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "Mouser"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "SPN" "81-GRM155R61E225KE1D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C385032"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Comment" "lifecycle=Active"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Capacitor_SMD:C_0402_1005Metric"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "g_cap/C-2.2u-0402_0_1"
+				(polyline
+					(pts
+						(xy -2.032 0.762) (xy 2.032 0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "g_cap/C-2.2u-0402_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "dz_parts:s_dio/D-DIO-ZHCS400QTA"
 			(pin_numbers
 				(hide yes)
@@ -5670,6 +5908,12 @@
 		(uuid "6364363a-d211-498b-acb4-1f7d4118de8a")
 	)
 	(junction
+		(at 336.55 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "882f2a28-aeac-4513-b08d-d152faf8a5d5")
+	)
+	(junction
 		(at 148.59 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5747,7 +5991,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 153.67) (xy 327.66 153.67)
+			(xy 316.23 153.67) (xy 328.93 153.67)
 		)
 		(stroke
 			(width 0)
@@ -5774,6 +6018,16 @@
 			(type default)
 		)
 		(uuid "0c2643ce-ec30-43f5-8800-a34bcfd30683")
+	)
+	(wire
+		(pts
+			(xy 331.47 137.16) (xy 336.55 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c467a63-1384-4994-b671-7c4ae2f0c47c")
 	)
 	(wire
 		(pts
@@ -5917,7 +6171,7 @@
 	)
 	(wire
 		(pts
-			(xy 334.01 147.32) (xy 340.36 147.32)
+			(xy 336.55 147.32) (xy 340.36 147.32)
 		)
 		(stroke
 			(width 0)
@@ -6407,6 +6661,16 @@
 	)
 	(wire
 		(pts
+			(xy 318.77 137.16) (xy 318.77 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0c3a0d2-bba9-4f8c-ab3a-c7d0684e1a86")
+	)
+	(wire
+		(pts
 			(xy 118.11 151.13) (xy 119.38 151.13)
 		)
 		(stroke
@@ -6637,7 +6901,17 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 135.89) (xy 336.55 137.16)
+			(xy 323.85 137.16) (xy 318.77 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e346f972-9f6c-4c3e-a528-2d7a1eabd713")
+	)
+	(wire
+		(pts
+			(xy 336.55 133.35) (xy 336.55 137.16)
 		)
 		(stroke
 			(width 0)
@@ -134606,7 +134880,7 @@
 		(uuid "88d34bc9-1f07-4529-bfd9-e191aee0a76c")
 	)
 	(label "HV_EN1"
-		(at 327.66 153.67 180)
+		(at 328.93 153.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -134639,7 +134913,7 @@
 	)
 	(hierarchical_label "HV_PWR_EN"
 		(shape input)
-		(at 334.01 147.32 180)
+		(at 336.55 147.32 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -138780,6 +139054,173 @@
 			(project "wulpus_pro_acq_pcb"
 				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/febbdcb2-4a09-4098-baaa-60afd3f98477"
 					(reference "FB2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "dz_parts:g_cap/C-2.2u-0402")
+		(at 327.66 137.16 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2168f77d-1b4e-4176-a8ad-08299fda8047")
+		(property "Reference" "C17"
+			(at 327.66 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.2uF"
+			(at 327.66 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 331.47 136.1948 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61E225KE11D"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cap 2.2uF 25V 0402 X5R ±10%"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IPN" "C-2.2u-0402"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61E225KE11"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Capacitance" "2.2uF"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Material" "X5R"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "81-GRM155R61E225KE1D"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C385032"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "lifecycle=Active"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e48cbf7e-1451-4de8-b4ad-7a0887f62a1d")
+		)
+		(pin "1"
+			(uuid "f2a118fd-a048-4f65-8f02-79fecba3649f")
+		)
+		(instances
+			(project ""
+				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/febbdcb2-4a09-4098-baaa-60afd3f98477"
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -149105,6 +149546,70 @@
 		)
 	)
 	(symbol
+		(lib_id "wulpus_pro_acq_pcb-altium-import:GND_POWER_GROUND")
+		(at 318.77 138.43 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9b24caa8-39ae-4025-8661-4ff9f8e9953a")
+		(property "Reference" "#PWR029"
+			(at 318.77 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 318.77 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 318.77 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 318.77 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 318.77 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "49cd450f-75cf-47a2-ba1f-96f9af12d6d9")
+		)
+		(instances
+			(project "wulpus_pro_acq_pcb"
+				(path "/d01a6722-b97d-4423-9d16-72cf0c7cd2c5/febbdcb2-4a09-4098-baaa-60afd3f98477"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Altium Content Vault:root_0_11868f565c42a9108669ba33697ecf6_Altium Content Vault")
 		(at 119.38 157.48 0)
 		(unit 1)
@@ -152530,7 +153035,7 @@
 	)
 	(symbol
 		(lib_id "wulpus_pro_acq_pcb-altium-import:+VBAT_BAR")
-		(at 336.55 135.89 180)
+		(at 336.55 133.35 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -152538,7 +153043,7 @@
 		(dnp no)
 		(uuid "c37a4829-9504-4321-a1bb-9dbc9c93b298")
 		(property "Reference" "#PWR0122"
-			(at 336.55 135.89 0)
+			(at 336.55 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -152547,7 +153052,7 @@
 			)
 		)
 		(property "Value" "+VBAT"
-			(at 336.55 132.08 0)
+			(at 336.55 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -152555,7 +153060,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 336.55 135.89 0)
+			(at 336.55 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -152563,7 +153068,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 336.55 135.89 0)
+			(at 336.55 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -152571,7 +153076,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 336.55 135.89 0)
+			(at 336.55 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)

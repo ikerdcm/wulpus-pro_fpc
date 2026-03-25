@@ -2058,7 +2058,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "39863e74-edaf-4003-9023-66669c01e649")
 		(property "Reference" "C22"
 			(at 183.134 99.2632 0)

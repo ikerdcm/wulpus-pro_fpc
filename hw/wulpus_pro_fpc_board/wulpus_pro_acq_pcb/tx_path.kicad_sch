@@ -3609,6 +3609,17 @@
 		)
 		(uuid f7eedde3-36ff-4bb9-a3de-3a4ca3317670)
 	)
+	(text "Can we delete Pulser_out_B pin?"
+		(exclude_from_sim no)
+		(at 194.564 99.822 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 13 1)
+			)
+		)
+		(uuid "1e896e4f-380d-4204-a2a1-ff44e9083938")
+	)
 	(text "The second pulser channel (optional)"
 		(exclude_from_sim no)
 		(at 116.84 116.84 0)
@@ -9200,7 +9211,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6a3bd391-5abd-4c67-a05e-e77ed5d2e1a8")
 		(property "Reference" "R18"
 			(at 228.6 144.78 0)
@@ -11184,7 +11195,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "747a0c6c-a75b-43d2-8554-99d77563eddc")
 		(property "Reference" "R19"
 			(at 228.854 150.876 0)
@@ -12146,7 +12157,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7b1be3f9-68ca-4b6d-a08a-12c23a7eaddc")
 		(property "Reference" "R16"
 			(at 230.124 122.936 0)
