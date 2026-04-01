@@ -233,6 +233,10 @@
           "drill": 0.0
         },
         {
+          "diameter": 0.3,
+          "drill": 0.1
+        },
+        {
           "diameter": 0.35,
           "drill": 0.15
         },
@@ -566,10 +570,13 @@
     "net_colors": {
       "+5V": "rgb(27, 255, 0)",
       "+VBAT": "rgb(49, 207, 255)",
-      "+VBAT_STM": "rgb(108, 95, 255)",
+      "+VBAT_STM": "rgb(8, 39, 255)",
       "+VCC_MSP430_CONN": "rgb(255, 242, 89)",
+      "+V_IO_IN": "rgb(255, 11, 13)",
       "+V_RX": "rgb(255, 42, 233)",
-      "+V_RX_CONN": "rgb(178, 44, 255)"
+      "+V_RX_CONN": "rgb(178, 44, 255)",
+      "VOUT_NEG": "rgb(255, 124, 0)",
+      "VOUT_POS": "rgb(255, 0, 3)"
     },
     "netclass_assignments": null,
     "netclass_patterns": [
