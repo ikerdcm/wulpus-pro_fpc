@@ -5,7 +5,8 @@
 	(uuid "207a3807-410d-4b2e-b923-c9fbd4dca491")
 	(paper "A3")
 	(title_block
-		(title "WULPUS PRO")
+		(title "WULPUS PRO FLEX")
+		(date "2026-04-06")
 		(rev "1.0.0")
 	)
 	(lib_symbols
