@@ -15040,6 +15040,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 214.63 203.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 214.63 203.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fa42c8ed-f291-42e7-9c89-c4d5dad022b3")
 		)
@@ -16366,6 +16388,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 35.56 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 35.56 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "762a81c6-82a1-44bd-8d40-ca83ca5edb8a")
 		)
@@ -17458,6 +17502,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 195.58 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 195.58 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c0d6a012-0dca-49b2-8236-45284ec97c28")
 		)
@@ -18341,6 +18407,28 @@
 			)
 		)
 		(property "VOLTAGE GAIN" ""
+			(at 190.5 274.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 190.5 274.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 190.5 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -20010,6 +20098,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 26.67 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 26.67 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ea6df47c-5673-4ae8-83af-2adb6c41eb1b")
 		)
@@ -20092,6 +20202,28 @@
 		)
 		(property "MPN" "CRCW06033K00FKEAHP"
 			(at 46.99 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 46.99 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 46.99 137.16 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21315,6 +21447,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 59.69 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 59.69 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "77823e90-9e03-4f4c-8031-0f58cc663a57")
 		)
@@ -22398,6 +22552,28 @@
 			)
 		)
 		(property "VOLTAGE GAIN" ""
+			(at 247.65 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 247.65 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 247.65 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -23563,6 +23739,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 215.9 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 215.9 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4076507a-1b95-49e2-a748-cb3b0865dfac")
 		)
@@ -24703,6 +24901,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 58.42 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 58.42 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0e84ed7b-3103-4375-a6ee-08b23c7c9d98")
 		)
@@ -25512,6 +25732,28 @@
 			)
 		)
 		(property "VOLTAGE GAIN" ""
+			(at 190.5 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 190.5 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 190.5 266.7 0)
 			(hide yes)
 			(show_name no)
@@ -26771,6 +27013,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 196.85 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 196.85 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0a16b348-142b-4cd7-b564-d896c421d2af")
 		)
@@ -27863,6 +28127,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 175.26 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 175.26 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d2b758c8-06e4-4202-b9c7-165c76f543ab")
 		)
@@ -28054,6 +28340,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 191.77 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 191.77 213.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 191.77 213.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28927,6 +29235,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 35.56 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 35.56 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "66ffde93-b03f-4dc2-918f-73f8598b02f3")
 		)
@@ -29273,6 +29603,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 67.31 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 67.31 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "B2"
 			(uuid "aeb39768-296f-4238-b2a5-754627fbb616")
 		)
@@ -29544,6 +29896,28 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
+			(at 68.58 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 68.58 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 68.58 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -30490,6 +30864,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 107.95 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 107.95 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "76fd3e62-4d63-4baa-8c62-994c2748890f")
 		)
@@ -31299,6 +31695,28 @@
 			)
 		)
 		(property "VOLTAGE GAIN" ""
+			(at 172.72 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 172.72 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 172.72 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -32244,6 +32662,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 68.58 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 68.58 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4ec1d3a5-90be-4e37-b03b-52dbefffa4bd")
 		)
@@ -32836,6 +33276,28 @@
 			)
 		)
 		(property "VOLTAGE GAIN" ""
+			(at 346.71 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 346.71 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 346.71 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -33707,6 +34169,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 147.32 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 147.32 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "36baf083-a297-4c24-b4f3-bb21e65dcaef")
 		)
@@ -34304,6 +34788,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 346.71 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 346.71 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bf188f70-29fb-4db8-a1f7-04a47a188cbc")
 		)
@@ -34537,6 +35043,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 224.79 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 224.79 203.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 224.79 203.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35713,6 +36241,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 134.62 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 134.62 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f382a5fa-568c-45e8-ba0f-0410996dbc47")
 		)
@@ -36700,6 +37250,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 83.82 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 83.82 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "41"
 			(uuid "58c47cd6-91cb-47fe-9891-a1277efc92e1")
 		)
@@ -37648,6 +38220,28 @@
 			)
 		)
 		(property "VOLTAGE GAIN" ""
+			(at 44.45 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 44.45 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 44.45 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -38657,6 +39251,28 @@
 			)
 		)
 		(property "VOLTAGE GAIN" ""
+			(at 50.8 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 50.8 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 50.8 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -39750,6 +40366,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 128.27 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 128.27 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "88d7daa9-9934-434f-9b94-73749a435af8")
 		)
@@ -40673,6 +41311,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 218.44 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 218.44 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "37"
 			(uuid "04aa93f6-bfdc-483c-821d-193f250ba1e9")
 		)
@@ -40987,6 +41647,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 160.02 177.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 160.02 177.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6d0d7011-e97e-4493-bc9f-9d07bf608420")
 		)
@@ -41252,6 +41934,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 152.4 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 152.4 177.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 152.4 177.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42353,6 +43057,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 127 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 127 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ee749d10-eac0-4bde-af2d-488abd69a785")
 		)
@@ -42689,6 +43415,28 @@
 			)
 		)
 		(property "VOLTAGE GAIN" ""
+			(at 101.6 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 101.6 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 101.6 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -43870,6 +44618,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 116.84 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 116.84 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "85c31976-b8c2-4fa4-b08d-cc944d9291f3")
 		)
@@ -44134,6 +44904,28 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
+			(at 68.58 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 68.58 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 68.58 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -45299,6 +46091,28 @@
 			)
 		)
 		(property "VOLTAGE GAIN" ""
+			(at 124.46 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 124.46 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 124.46 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -46548,6 +47362,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 194.31 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 194.31 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "40104dce-c8e4-46ec-b4b1-d08c118fd2f0")
 		)
@@ -46813,6 +47649,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 201.93 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 201.93 213.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 201.93 213.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47952,6 +48810,28 @@
 			)
 		)
 		(property "VOLTAGE GAIN" ""
+			(at 68.58 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 68.58 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 68.58 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -49240,6 +50120,28 @@
 			)
 		)
 		(property "VOLTAGE GAIN" ""
+			(at 40.64 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 40.64 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 40.64 203.2 0)
 			(hide yes)
 			(show_name no)

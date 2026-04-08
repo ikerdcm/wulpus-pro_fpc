@@ -18751,6 +18751,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 300.99 341.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 300.99 341.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7e516c82-7156-4d36-828c-aeec5a887b42")
 		)
@@ -18951,6 +18973,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 295.91 213.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 295.91 213.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f48e0e45-c240-4b8d-8b38-3ff388d2ff7d")
 		)
@@ -19142,6 +19186,28 @@
 		)
 		(property "Comment" "lifecycle=Active; TCR=±100ppm/°C"
 			(at 552.45 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 552.45 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 552.45 119.38 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19425,6 +19491,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 374.65 276.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 276.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e71c12c1-6417-4f5b-870b-909249556f4c")
 		)
@@ -19570,7 +19658,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "C0402C104K4RACTU"
 			(at 403.86 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -19582,6 +19670,39 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0402"
+			(at 403.86 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 403.86 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 403.86 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0402C104K4RACTU"
 			(at 403.86 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -19857,6 +19978,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 449.58 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 449.58 219.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 219.71 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20962,6 +21105,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 177.8 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 177.8 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2a006acd-b639-40a0-a234-5caf31229067")
 		)
@@ -21910,6 +22075,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 158.75 309.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 158.75 309.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f98a384a-4559-4950-9354-a2530c8e9b6b")
 		)
@@ -22184,6 +22371,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 374.65 215.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 215.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2694b50f-ca48-4fc6-8968-3c20f086d391")
 		)
@@ -22384,6 +22593,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 374.65 176.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 176.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "de24199c-d64c-4218-bbde-03f9c17fbfbc")
 		)
@@ -22575,6 +22806,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 295.91 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 295.91 241.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 295.91 241.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23898,6 +24151,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 238.76 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 238.76 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ca08db17-ab1d-4067-bbbf-4201e89561a9")
 		)
@@ -24176,6 +24451,28 @@
 				(justify bottom)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 53.34 335.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 53.34 335.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "01c02aed-c527-4b9c-8041-46c9530ee586")
 		)
@@ -24400,6 +24697,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 449.58 274.32 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 274.32 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4a81e057-4baa-48c4-9dce-6bd7dd338e8f")
 		)
@@ -24569,6 +24888,28 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active;"
+			(at 276.86 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 276.86 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 276.86 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -24770,6 +25111,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 449.58 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 449.58 290.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 290.83 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25312,6 +25675,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 135.89 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 135.89 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "58"
 			(uuid "5c3d9ef3-8711-42e0-85d3-201f79d2e81c")
 		)
@@ -25701,6 +26086,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 481.33 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 481.33 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6f18c821-b770-49c0-b887-65646aef2c8f")
 		)
@@ -25901,6 +26308,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 311.15 176.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 311.15 176.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0ac14ba9-5d32-4295-a52f-7175e68382cb")
 		)
@@ -26071,6 +26500,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 402.59 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 402.59 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "41c6a3e8-7479-4045-a955-800f72596166")
 		)
@@ -26114,7 +26565,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "0.1 uF"
 			(at 280.67 54.61 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26146,7 +26597,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "C0402C104K4RACTU"
 			(at 276.86 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -26159,6 +26610,39 @@
 		)
 		(property "CASE/PACKAGE" "0402"
 			(at 276.86 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 276.86 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 276.86 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0402C104K4RACTU"
+			(at 276.86 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27171,6 +27655,28 @@
 			)
 		)
 		(property "VOLTAGE GAIN" ""
+			(at 151.13 339.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 151.13 339.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 151.13 339.09 0)
 			(hide yes)
 			(show_name no)
@@ -28201,6 +28707,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 193.04 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 193.04 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2cccc8b8-9230-497a-a66b-5dd49b3147f4")
 		)
@@ -28467,6 +28995,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 374.65 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 374.65 271.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 271.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29717,6 +30267,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 439.42 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 439.42 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "09d1036c-e7b5-46f8-9de5-e4c5afb6c5d7")
 		)
@@ -29917,6 +30489,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 374.65 293.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 293.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "be6d4ddc-073f-4fc5-84de-d4c2011fed2d")
 		)
@@ -30108,6 +30702,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 374.65 191.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 374.65 191.77 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30457,6 +31073,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 449.58 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 449.58 173.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 173.99 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31558,6 +32196,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 387.35 130.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 387.35 130.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4362d58d-cc41-4b42-b4df-1271f0f12b3c")
 		)
@@ -31758,6 +32418,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 449.58 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "36e70456-077f-4d61-91ad-e64f9a23a612")
 		)
@@ -31829,7 +32511,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "MLASL105BB5475MFNB33"
 			(at 441.96 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -31841,6 +32523,39 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0402"
+			(at 441.96 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 441.96 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 441.96 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MLASL105BB5475MFNB33"
 			(at 441.96 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -33004,6 +33719,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 111.76 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 111.76 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7fcada01-68c5-40ec-88c1-f560eb9e8e54")
 		)
@@ -33195,6 +33932,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 449.58 285.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 449.58 285.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 285.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33479,6 +34238,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 311.15 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 311.15 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1d091c10-50b9-44fe-a418-f54c3d211f80")
 		)
@@ -33753,6 +34534,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 300.99 336.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 300.99 336.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1bf4b583-adb5-4633-8d5a-bd906750e8a4")
 		)
@@ -33953,6 +34756,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 300.99 303.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 300.99 303.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fba01f69-78ec-4d9c-881f-769ac544a069")
 		)
@@ -34144,6 +34969,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 449.58 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 449.58 246.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 246.38 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35319,6 +36166,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 247.65 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 247.65 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a53c43a5-164a-43e5-afe4-f2c00f9868f0")
 		)
@@ -36411,6 +37280,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 130.81 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 130.81 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "321a6275-7fc5-488d-8897-66049dff48c3")
 		)
@@ -37423,6 +38314,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 208.28 339.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 208.28 339.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "55111ff2-f14a-4a27-885f-0790448db76e")
 		)
@@ -37697,6 +38610,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 449.58 251.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 251.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d4fc86ec-3b6a-44a0-9c15-d375950f4c83")
 		)
@@ -37897,6 +38832,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 374.65 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 201.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ae5d3efc-6b4d-4801-86b3-344f002dec3e")
 		)
@@ -38088,6 +39045,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 374.65 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 374.65 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 171.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39237,6 +40216,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 204.47 325.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 204.47 325.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e506f392-1e21-4b72-963d-30d667bad2f0")
 		)
@@ -39308,7 +40309,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "C0402C104K4RACTU"
 			(at 416.56 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -39320,6 +40321,39 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0402"
+			(at 416.56 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 416.56 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 416.56 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0402C104K4RACTU"
 			(at 416.56 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -39401,7 +40435,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "C0402C104K4RACTU"
 			(at 429.26 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -39413,6 +40447,39 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0402"
+			(at 429.26 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 429.26 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 429.26 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0402C104K4RACTU"
 			(at 429.26 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -39968,6 +41035,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 44.45 260.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 44.45 260.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "aa4607f8-4952-43ee-9bb1-7b37bc2d4514")
 		)
@@ -40159,6 +41248,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 295.91 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 295.91 259.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 295.91 259.08 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41165,6 +42276,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 541.02 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 541.02 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e5700195-8abb-4722-a4eb-21dc57cad7ac")
 		)
@@ -41236,7 +42369,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "C0402C104K4RACTU"
 			(at 434.34 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -41248,6 +42381,39 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0402"
+			(at 434.34 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 434.34 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 434.34 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0402C104K4RACTU"
 			(at 434.34 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -41449,6 +42615,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 374.65 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 374.65 186.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 186.69 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41732,6 +42920,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 449.58 326.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 326.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "390442a0-b877-475e-9f0c-8a48300bb75f")
 		)
@@ -41997,6 +43207,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 300.99 322.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 300.99 322.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 300.99 322.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43172,6 +44404,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 34.29 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 34.29 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "aab902d9-d042-485c-b08b-0f6bc507dccb")
 		)
@@ -43363,6 +44617,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 295.91 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 295.91 229.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 295.91 229.87 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43572,6 +44848,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 374.65 341.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 341.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1847d83f-4778-478d-8f49-2414041067c0")
 		)
@@ -43772,6 +45070,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 374.65 220.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 220.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c648d310-4fa4-4900-ba33-a7ca0ae5a056")
 		)
@@ -43963,6 +45283,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 374.65 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 374.65 311.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 311.15 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45148,6 +46490,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 208.28 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 208.28 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "256ac81a-d828-4270-a76b-d82e8dc4ee1f")
 		)
@@ -45339,6 +46703,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 374.65 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 374.65 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 236.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45698,6 +47084,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 374.65 331.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 331.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "11ac1370-3aa6-4655-b905-a067191a7b05")
 		)
@@ -45889,6 +47297,28 @@
 		)
 		(property "Comment" "lifecycle=Active; TCR=±100ppm/°C"
 			(at 552.45 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 552.45 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 552.45 116.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46681,6 +48111,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 534.67 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 534.67 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dc324644-890f-4c57-ba18-8248dd20a497")
 		)
@@ -46884,6 +48336,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 374.65 288.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 288.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e291de1c-322a-4b89-b4b4-5c00a91729f0")
 		)
@@ -47075,6 +48549,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 374.65 316.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 374.65 316.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 316.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48086,6 +49582,28 @@
 			)
 		)
 		(property "VOLTAGE GAIN" ""
+			(at 180.34 339.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 180.34 339.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 180.34 339.09 0)
 			(hide yes)
 			(show_name no)
@@ -49236,6 +50754,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 147.32 325.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 147.32 325.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e61ba109-e769-4600-bcad-bbe92e587751")
 		)
@@ -50176,6 +51716,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 204.47 212.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 204.47 212.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4585b61a-2a9e-4cb7-bbf1-409835fdd7fc")
 		)
@@ -51052,6 +52614,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 157.48 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 157.48 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ff601c8e-948d-404e-b5cb-32c7b9150b4b")
 		)
@@ -51259,6 +52843,28 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active; gender=Male; orientation=Vertical; pins=10;"
+			(at 533.4 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 533.4 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 533.4 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -52161,6 +53767,28 @@
 		)
 		(property "VOLTAGE GAIN" ""
 			(at 33.02 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 33.02 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 33.02 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53262,6 +54890,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 130.81 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 130.81 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3fc8f5dd-e316-462a-93aa-74ccb9c1ca28")
 		)
@@ -53462,6 +55112,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 374.65 241.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 241.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "61e03e9b-fa4d-4508-ab3b-5feec2a6bfb6")
 		)
@@ -53653,6 +55325,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 449.58 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 449.58 186.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 186.69 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54802,6 +56496,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 176.53 325.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 176.53 325.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "43590364-42ef-4284-a8cd-8d4c74e513a4")
 		)
@@ -54993,6 +56709,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 300.99 317.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 300.99 317.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 300.99 317.5 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55202,6 +56940,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 300.99 298.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 300.99 298.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e2ddf707-ee43-402e-8f24-10fc5dca8cfd")
 		)
@@ -55347,7 +57107,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "C0402C104K4RACTU"
 			(at 403.86 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -55359,6 +57119,39 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0402"
+			(at 403.86 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 403.86 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 403.86 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0402C104K4RACTU"
 			(at 403.86 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -56255,6 +58048,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 125.73 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 125.73 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "64a2ad61-2c28-4015-bb7c-216212da2f31")
 		)
@@ -56449,6 +58264,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 295.91 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 295.91 224.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 295.91 224.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57784,6 +59621,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 111.76 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 111.76 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f3b126e9-8c8a-43c6-adab-b63ca8a78354")
 		)
@@ -57926,7 +59785,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "CRCW040210K0JNED"
 			(at 469.9 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -57938,6 +59797,39 @@
 			)
 		)
 		(property "MPF" "CRCW040210K0JNED"
+			(at 469.9 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 469.9 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 469.9 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CASE/PACKAGE" "0402"
 			(at 469.9 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -58139,6 +60031,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 374.65 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 374.65 250.19 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 250.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58422,6 +60336,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 295.91 208.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 295.91 208.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "70f1ebdf-5fd7-4679-a38d-1ff2a1c8db75")
 		)
@@ -58696,6 +60632,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 449.58 214.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 214.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "671da7b4-af96-49b8-87b9-5a4c80fe5d4d")
 		)
@@ -58896,6 +60854,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 449.58 306.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 306.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7b4048fe-7219-4700-b02f-a15b712dd28e")
 		)
@@ -59082,7 +61062,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1 uF 10V"
 			(at 420.37 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59115,7 +61095,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "GRM155Z71A105KE01D"
 			(at 416.56 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -59138,6 +61118,39 @@
 			)
 		)
 		(property "CASE/PACKAGE" "0402"
+			(at 416.56 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 416.56 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 416.56 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155Z71A105KE01D"
 			(at 416.56 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -60305,6 +62318,28 @@
 		)
 		(property "VOLTAGE GAIN" ""
 			(at 30.48 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 30.48 207.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 30.48 207.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61490,6 +63525,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 208.28 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 208.28 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0c841fe5-9488-4bd6-8f9f-6040dd846cd9")
 		)
@@ -61755,6 +63812,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 449.58 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 449.58 231.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 231.14 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62714,6 +64793,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 207.01 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 207.01 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4e32bcea-e953-45a8-a1fa-33abd3d7f62a")
 		)
@@ -62905,6 +65006,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 449.58 300.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 449.58 300.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 300.99 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64006,6 +66129,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 80.01 210.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 80.01 210.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7c2229b5-6b20-4c22-ad4b-d4fd6de3470c")
 		)
@@ -65098,6 +67243,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 34.29 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 34.29 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "44c5b758-1ec0-4057-8a26-f0b03e89ebb2")
 		)
@@ -65289,6 +67456,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 374.65 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 374.65 207.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 207.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -66392,6 +68581,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 193.04 273.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 193.04 273.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "826c28f9-0b3e-4c28-8eec-e51b80b91093")
 		)
@@ -66465,6 +68676,39 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 256KB flash, 48KB RAM, 72 MHz, 2.0-3.6V, 37 GPIO, LQFP48"
+			(at 322.58 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 322.58 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 322.58 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "STM32F303CCTx"
 			(at 322.58 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -66813,6 +69057,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 449.58 346.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 346.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6a4b2d78-6537-454f-8339-dd13c8ca4c40")
 		)
@@ -67013,6 +69279,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 374.65 346.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 346.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "42d30623-34fd-4e57-86c6-fd4617f0f04f")
 		)
@@ -67204,6 +69492,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 295.91 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 295.91 246.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 295.91 246.38 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67531,6 +69841,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 43.18 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 43.18 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "22ab42e5-fbbb-4b55-b39b-81c119e63a55")
 		)
@@ -67728,6 +70060,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 374.65 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 374.65 326.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 326.39 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68734,6 +71088,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 542.29 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 542.29 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e7f4bcb9-7347-492f-a339-ef496367ac66")
 		)
@@ -68959,6 +71335,28 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active;"
+			(at 403.86 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 403.86 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
 			(at 403.86 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -69234,6 +71632,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 449.58 341.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 449.58 341.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 341.63 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70493,6 +72913,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 234.95 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 234.95 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f973f9c8-bcb3-464d-93c5-f8f20f72b25e")
 		)
@@ -70693,6 +73135,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 449.58 269.24 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 269.24 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1ab3fa0a-1ce5-43e7-85c0-2b5680dfe577")
 		)
@@ -70884,6 +73348,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 295.91 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 295.91 264.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 295.91 264.16 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71599,6 +74085,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 534.67 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 534.67 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ac40fc94-e133-45ea-84d2-6c2c0e16963f")
 		)
@@ -71793,6 +74301,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 449.58 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 449.58 181.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 181.61 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -72002,6 +74532,28 @@
 				)
 			)
 		)
+		(property "CLASSNAME" ""
+			(at 374.65 255.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 374.65 255.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "39937f87-4675-4fce-958f-d8ff177bd9ef")
 		)
@@ -72193,6 +74745,28 @@
 		)
 		(property "Comment" "lifecycle=Active; note=Zero-ohm jumper"
 			(at 449.58 331.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 449.58 331.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COMPONENT KIND" ""
+			(at 449.58 331.47 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
