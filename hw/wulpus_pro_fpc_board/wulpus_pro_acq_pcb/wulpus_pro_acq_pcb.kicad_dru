@@ -1,1 +1,5 @@
 (version 1)
+(rule Minimum_clearance_1
+	(constraint clearance (min 0.15mm))
+	(condition "A.Type == 'Pad' && (A.Parent == 'U17' || A.Parent == 'J2' || A.Parent == 'U3' || A.Parent == 'U2' || A.Parent == 'J6' || A.Parent == 'U12' || A.Parent == 'U8' || A.Parent == 'U6' || A.Parent == 'Q1' || A.Parent == 'J11' || A.Parent == 'U14' || A.Parent == 'U15' || A.Parent == 'U11' || A.Parent == 'D1' || A.Parent == 'U4' || A.Parent == 'U5' || A.Parent == 'U9' || A.Parent == 'U13')")
+)
