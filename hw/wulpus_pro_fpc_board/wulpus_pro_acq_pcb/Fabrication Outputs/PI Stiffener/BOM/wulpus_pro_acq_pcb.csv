@@ -1,260 +1,72 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","CASE/PACKAGE","Description","MPN"
-"C1","1","1.5pf","","","","Capacitor_SMD:C_0402_1005Metric","0402","GJM1555C1H1R5BB01D","GJM1555C1H1R5BB01D"
-"C2","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C3","1","10 nf","","","","Capacitor_SMD:C_0402_1005Metric","0402","VJ0402Y103JXJAC","VJ0402Y103JXJAC"
-"C4","1","1 nf","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM1555C1H102JA01D","GRM1555C1H102JA01D"
-"C5","1","1 nf","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM1555C1H102JA01D","GRM1555C1H102JA01D"
-"C6","1","3.3 nf","","","","Capacitor_SMD:C_0402_1005Metric","0402","04025C332JAT2A","04025C332JAT2A"
-"C7","1","10 nf","","","","Capacitor_SMD:C_0402_1005Metric","0402","VJ0402Y103JXJAC","VJ0402Y103JXJAC"
-"C8","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C9","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C10","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C11","1","47 uF","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R60J476ME01D","GRM188R60J476ME01D"
-"C12","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C13","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C14","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C15","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C16","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C17","1","2.2uF","","","","Capacitor_SMD:C_0402_1005Metric","","Cap 2.2uF 25V 0402 X5R ±10%","GRM155R61E225KE11"
-"C18","1","1 nf","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM1555C1H102JA01D","GRM1555C1H102JA01D"
-"C19","1","10 pf 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM1555C1H100JA01D","GRM1555C1H100JA01D"
-"C20","1","10 pf 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM1555C1H100JA01D","GRM1555C1H100JA01D"
-"C21","1","2.2 uF 50V","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R61H225ME11D","GRM188R61H225ME11D"
-"C22","1","100 pf","DNP","","","Capacitor_SMD:C_0402_1005Metric","0402","04025A101FAT2A","04025A101FAT2A"
-"C23","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C24","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C25","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C26","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C27","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C28","1","2.2 uF 50V","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R61H225ME11","GRM188R61H225ME11"
-"C29","1","2.2 uF 50V","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R61H225ME11","GRM188R61H225ME11"
-"C32","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C33","1","2.2 uF 50V","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R61H225ME11","GRM188R61H225ME11"
-"C34","1","2.2 uF 50V","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R61H225ME11","GRM188R61H225ME11"
-"C35","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C36","1","47 nf 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM155R71H473ME14D","GRM155R71H473ME14D"
-"C37","1","47 nf 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM155R71H473ME14D","GRM155R71H473ME14D"
-"C38","1","1 nf","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM1555C1H102JA01D","GRM1555C1H102JA01D"
-"C39","1","47 uF","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R60J476ME01D","GRM188R60J476ME01D"
-"C40","1","1 nf","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM1555C1H102JA01D","GRM1555C1H102JA01D"
-"C41","1","1 nf","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM1555C1H102JA01D","GRM1555C1H102JA01D"
-"C42","1","47 uF","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R60J476ME01D","GRM188R60J476ME01D"
-"C43","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C44","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C45","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C46","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C47","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C48","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C49","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C50","1","1000 pF 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM1555C1H102JA01D","GRM1555C1H102JA01D"
-"C51","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C52","1","12 pF 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GJM1555C1H120GB01D","GJM1555C1H120GB01D"
-"C53","1","12 pF 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GJM1555C1H120GB01D","GJM1555C1H120GB01D"
-"C54","1","12 pF 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GJM1555C1H120GB01D","GJM1555C1H120GB01D"
-"C55","1","12 pF 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GJM1555C1H120GB01D","GJM1555C1H120GB01D"
-"C56","1","2.2 uF 50V","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R61H225ME11D","GRM188R61H225ME11D"
-"C57","1","2.2 uF 50V","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R61H225ME11D","GRM188R61H225ME11D"
-"C58","1","2.2 uF 50V","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R61H225ME11D","GRM188R61H225ME11D"
-"C59","1","1 uF 50V","","","","Capacitor_SMD:C_0805_2012Metric","0805","GCM21BR71H105KA03L","GCM21BR71H105KA03L"
-"C60","1","2.2 uF 50V","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R61H225ME11D","GRM188R61H225ME11D"
-"C61","1","2.2 uF 50V","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R61H225ME11D","GRM188R61H225ME11D"
-"C62","1","2.2 uF 50V","","","","Capacitor_SMD:C_0603_1608Metric","0603","GRM188R61H225ME11D","GRM188R61H225ME11D"
-"C63","1","0.1 uF 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM155C71H104KE19D","GRM155C71H104KE19D"
-"C64","1","1 uF 10V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM155Z71A105KE01D","GRM155Z71A105KE01D"
-"C65","1","1 uF 10V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM155Z71A105KE01D","GRM155Z71A105KE01D"
-"C66","1","1 uF 10V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM155Z71A105KE01D","GRM155Z71A105KE01D"
-"C67","1","1 uF 10V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM155Z71A105KE01D","GRM155Z71A105KE01D"
-"C68","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C69","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C70","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C71","1","0.1 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C72","1","12 pF 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GJM1555C1H120GB01D","GJM1555C1H120GB01D"
-"C73","1","12 pF 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GJM1555C1H120GB01D","GJM1555C1H120GB01D"
-"C74","1","2.2 uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C1005X7S1A225K050BC","C1005X7S1A225K050BC"
-"C81","1","100nF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C82","1","100nF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C83","1","100nF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C84","1","4.7uF","","","","Capacitor_SMD:C_0402_1005Metric","0402","MLASL105BB5475MFNB33","MLASL105BB5475MFNB33"
-"C85","1","100nF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C86","1","1 uF 10V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GRM155Z71A105KE01D","GRM155Z71A105KE01D"
-"C87","1","100nF","","","","Capacitor_SMD:C_0402_1005Metric","0402","C0402C104K4RACTU","C0402C104K4RACTU"
-"C88","1","12 pF 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GJM1555C1H120GB01D","GJM1555C1H120GB01D"
-"C89","1","12 pF 50V","","","","Capacitor_SMD:C_0402_1005Metric","0402","GJM1555C1H120GB01D","GJM1555C1H120GB01D"
-"D1","1","BAV99T-7-F","","","","Package_TO_SOT_SMD:SOT-523","SOT-523","DIODE ARRAY GP 85V 75MA SOT523","BAV99T-7-F"
-"D2","1","APHD1608LZGCK","","","","LED_SMD:LED_0603_1608Metric","0603","LED GREEN CLEAR 1608 SMD","APHD1608LZGCK"
-"D3","1","ZHCS400QTA","","","","Diode_SMD:D_SOD-323","SOD-323","Schottky Diode 40V 1A","ZHCS400QTA"
-"FB1","1","100Ω@100MHz","","","","Inductor_SMD:L_0603_1608Metric","","Ferrite Bead 100Ω@100MHz 40Ω@10MHz 3.7A 0603","BLM18SP101SN1"
-"FB2","1","100Ω@100MHz","","","","Inductor_SMD:L_0603_1608Metric","","Ferrite Bead 100Ω@100MHz 40Ω@10MHz 3.7A 0603","BLM18SP101SN1"
-"FB3","1","100Ω@100MHz","","","","Inductor_SMD:L_0603_1608Metric","","Ferrite Bead 100Ω@100MHz 40Ω@10MHz 3.7A 0603","BLM18SP101SN1"
-"FB4","1","100Ω@100MHz","","","","Inductor_SMD:L_0603_1608Metric","","Ferrite Bead 100Ω@100MHz 40Ω@10MHz 3.7A 0603","BLM18SP101SN1"
-"FB6","1","600Ω@100MHz","","","","Inductor_SMD:L_0603_1608Metric","","Ferrite Bead 600Ω@100MHz 0.5A 0603","BLM18AG601SZ1"
-"J1","1","DF52-16S-0.8H(21)","","","","dz_con:CONN_DF52-16S-0.8H21_HIR","","16 Position Socket Connector 0.031"" (0.80mm) Surface Mount, Right Angle Tin","DF52-16S-0.8H(21)"
-"J2","1","DF40C-40DS-0.4V(51)","","","","Connector_Hirose_DF40:Hirose_DF40C-40DS-0.4V_2x20_P0.4mm","","40 Position 0.4mm Pitch Dual Row Vertical Surface Mount (SMT) Pin Socket, 1.5mm Stacking Height","DF40C-40DS-0.4V(51)"
-"J3","1","3220-10-0300-00","","","","dz_con:CNC_3220-10-0300-00","","Conn Header 1.27mm 10 Position Dual Row Vertical","3220-10-0300-00"
-"J5","1","DF52-16S-0.8H(21)","","","","dz_con:CONN_DF52-16S-0.8H21_HIR","","16 Position Socket Connector 0.031"" (0.80mm) Surface Mount, Right Angle Tin","DF52-16S-0.8H(21)"
-"J6","1","5051100892","","","","dz_con:CON_5051100892_MOL","","8 Position FFC, FPC Connector Contacts, Bottom 0.020"" (0.50mm) Surface Mount, Right Angle","5051100892"
-"J8","1","U.FL-R-SMT-1(10)","","","","dz_con:HRS_U.FL-R-SMT-1_10_","","U.FL (UMCC) Connector Receptacle, Male Pin 50 Ohms Surface Mount Solder","U.FL-R-SMT-1(10)"
-"J9","1","U.FL-R-SMT-1(10)","","","","dz_con:HRS_U.FL-R-SMT-1_10_","","U.FL (UMCC) Connector Receptacle, Male Pin 50 Ohms Surface Mount Solder","U.FL-R-SMT-1(10)"
-"J11","1","DF40HC(3.0)-50DS-0.4V(51)","","","","dz_con:CONN_DF40HC3.0-50DS-0.4V51_HIR","","50 Position Connector Receptacle, Center Strip Contacts Surface Mount Gold","DF40HC(3.0)-50DS-0.4V(51)"
-"L1","1","742792040","","","","Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder","0805","SMD EMI Suppression Ferrite Bead WE-CBF, Z = 600 Ohm","742792040"
-"L2","1","742792040","","","","Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder","0805","SMD EMI Suppression Ferrite Bead WE-CBF, Z = 600 Ohm","742792040"
-"L3","1","10uH","","","","dz_ind:IND_LQH3NPZ100MMEL","1212","Ind 10uH 1.28A 1212 Shielded","LQH3NPZ100MMEL"
-"L4","1","10uH","","","","dz_ind:IND_LQH3NPZ100MMEL","1212","Ind 10uH 1.28A 1212 Shielded","LQH3NPZ100MMEL"
-"Q1","1","NX7002BKMBYL","","","","Package_DFN_QFN:Diodes_DFN1006-3","","N-Channel 60 V 350mA (Ta) 350mW (Ta), 3.1W (Tc) Surface Mount DFN1006B-3","NX7002BKMBYL"
-"R1","1","1.3k","","","","R_0402_1005Metric","0402","CRCW04021K30JNED","CRCW04021K30JNED"
-"R2","1","2k","","","","R_0402_1005Metric","0402","ERJ-2RKF2001X","ERJ-2RKF2001X"
-"R3","1","2k","","","","R_0402_1005Metric","0402","ERJ-2RKF2001X","ERJ-2RKF2001X"
-"R4","1","2.7k","","","","R_0402_1005Metric","0402","MCS04020C2701FE000","MCS04020C2701FE000"
-"R5","1","0 Ohm","DNP","","","R_0402_1005Metric","0402","CRCW04020000Z0ED","CRCW04020000Z0ED"
-"R6","1","0 Ohm","DNP","","","R_0402_1005Metric","0402","CRCW04020000Z0ED","CRCW04020000Z0ED"
-"R7","1","400","","","","R_0402_1005Metric","0402","CRCW04021R00FKEDC","CRCW04021R00FKEDC"
-"R8","1","0 Ohm","","","","R_0402_1005Metric","0402","CRCW04020000Z0ED","CRCW04020000Z0ED"
-"R9","1","47k","","","","R_0402_1005Metric","0402","CRCW040247K0JNEE","CRCW040247K0JNEE"
-"R10","1","0 Ohm","","","","R_0402_1005Metric","0402","CRCW04020000Z0ED","CRCW04020000Z0ED"
-"R11","1","10k","","","","R_0402_1005Metric","0402","CRCW040210K0JNED","CRCW040210K0JNED"
-"R12","1","51","","","","R_0402_1005Metric","0402","CRCW040251R0JNED","CRCW040251R0JNED"
-"R13","1","10k","","","","R_0402_1005Metric","0402","CRCW040210K0JNED","CRCW040210K0JNED"
-"R14","1","0 Ohm","","","","R_0603_1608Metric","0603","ERJ-3GEY0R00V","ERJ-3GEY0R00V"
-"R15","1","10k","","","","R_0402_1005Metric","0402","CRCW040210K0JNED","CRCW040210K0JNED"
-"R16","1","0 Ohm","DNP","","","R_0402_1005Metric","0402","CRCW04020000Z0ED","CRCW04020000Z0ED"
-"R17","1","0 Ohm","","","","R_0402_1005Metric","0402","CRCW04020000Z0ED","CRCW04020000Z0ED"
-"R18","1","0 Ohm","DNP","","","R_0402_1005Metric","0402","CRCW04020000Z0ED","CRCW04020000Z0ED"
-"R19","1","0 Ohm","DNP","","","R_0402_1005Metric","0402","CRCW04020000Z0ED","CRCW04020000Z0ED"
-"R20","1","400","","","","R_0402_1005Metric","0402","CRCW04021R00FKEDC","CRCW04021R00FKEDC"
-"R21","1","10k","","","","R_0402_1005Metric","0402","CRCW040210K0JNED","CRCW040210K0JNED"
-"R22","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R23","1","3k 1/3W","","","","R_0603_1608Metric","0603","ERJ-PA3J302V","ERJ-PA3J302V"
-"R24","1","0 Ohm","DNP","","","R_0402_1005Metric","0402","CRCW04020000Z0ED","CRCW04020000Z0ED"
-"R25","1","390k","","","","R_0402_1005Metric","0402","RC1005F394CS","RC1005F394CS"
-"R26","1","100k","","","","R_0402_1005Metric","0402","ERJ-2RKF1003X","ERJ-2RKF1003X"
-"R27","1","0 Ohm","DNP","","","R_0402_1005Metric","0402","CRCW04020000Z0ED","CRCW04020000Z0ED"
-"R28","1","100k","","","","R_0402_1005Metric","0402","ERJ-2RKF1003X","ERJ-2RKF1003X"
-"R29","1","390k","","","","R_0402_1005Metric","0402","RC1005F394CS","RC1005F394CS"
-"R30","1","CRCW04021M00FKED","","","","R_0402_1005Metric","0402","RES Thick Film, 1MΩ, 1%, 0.063W, 100ppm/°C, 0402","CRCW04021M00FKED"
-"R31","1","CRCW04021M00FKED","","","","R_0402_1005Metric","0402","RES Thick Film, 1MΩ, 1%, 0.063W, 100ppm/°C, 0402","CRCW04021M00FKED"
-"R32","1","10k","","","","R_0402_1005Metric","0402","CRCW040210K0JNED",""
-"R33","1","400","","","","R_0402_1005Metric","0402","CRCW04021R00FKEDC","CRCW04021R00FKEDC"
-"R34","1","400","","","","R_0402_1005Metric","0402","CRCW04021R00FKEDC","CRCW04021R00FKEDC"
-"R35","1","CRCW040247K0FKED","","","","R_0402_1005Metric","0402","RES Thick Film, 47kΩ, 1%, 0.063W, 100ppm/°C, 0402","CRCW040247K0FKED"
-"R36","1","324R","","","","R_0402_1005Metric","0402","CPF0402B324RE1","CPF0402B324RE1"
-"R37","1","22R","","","","R_0402_1005Metric","0402","RC0402JR-0722RL","RC0402JR-0722RL"
-"R38","1","1MΩ","","","","R_0402_1005Metric","0402","ERJ-2RKF1004X","ERJ-2RKF1004X"
-"R39","1","43.2 kΩ","","","","R_0402_1005Metric","0402","ERJ-2RKF4322X","ERJ-2RKF4322X"
-"R40","1","41.2 kΩ","","","","R_0402_1005Metric","0402","ERJ-2RKF4122X","ERJ-2RKF4122X"
-"R41","1","10k","","","","R_0402_1005Metric","0402","CRCW040210K0JNED","CRCW040210K0JNED"
-"R42","1","10k","","","","R_0402_1005Metric","0402","CRCW040210K0JNED","CRCW040210K0JNED"
-"R43","1","1MΩ","","","","R_0402_1005Metric","0402","ERJ-2RKF1004X","ERJ-2RKF1004X"
-"R44","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R45","1","100k","","","","R_0402_1005Metric","0402","ERJ-2RKF1003X","ERJ-2RKF1003X"
-"R46","1","0 Ohm","","","","R_0402_1005Metric","0402","CRCW04020000Z0ED","CRCW04020000Z0ED"
-"R47","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R48","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R49","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R50","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R51","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R52","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R53","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R54","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R55","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R56","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R57","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R58","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R59","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R60","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R61","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R62","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R63","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R64","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R65","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R66","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R67","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R68","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R69","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R70","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R71","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R72","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R73","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R74","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R75","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R76","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R77","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R78","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R79","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R80","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R81","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R82","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R83","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R84","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R85","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R86","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R87","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R88","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R89","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R90","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R91","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R92","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R93","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R94","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R95","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R96","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R97","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R98","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R99","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R100","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R101","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R102","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R103","1","22R","","","","R_0402_1005Metric","0402","RC0402JR-0722RL","RC0402JR-0722RL"
-"R104","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R105","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R106","1","220","","","","Resistor_SMD:R_0402_1005Metric","","Res 220Ω 0.1W 0402 Thick Film 1%","ERJ-2RKF2200X"
-"R107","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R108","1","0","","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R109","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R110","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R111","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R112","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R113","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R114","1","0","DNP","","","Resistor_SMD:R_0402_1005Metric","","Res 0Ω 0.1W 0402 Thick Film jumper","ERJ-2GE0R00X"
-"R115","1","3k","","","","Resistor_SMD:R_0402_1005Metric","","Res 3kΩ 0.33W 0402 Thick Film 1%","CRCW06033K00FKEAHP"
-"R116","1","220","","","","Resistor_SMD:R_0402_1005Metric","","Res 220Ω 0.1W 0402 Thick Film 1%","ERJ-2RKF2200X"
-"SW1","1","Button Switch SPST-No","","","","Button_Switch_SMD:SW_SPST_B3U-1000P","","Tactile Switch SPST-NO Top Actuated Surface Mount 50mA 12V SMD","B3U-1000P"
-"TP1","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"TP2","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"TP3","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"TP4","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"TP6","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"TP8","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"TP9","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"TP10","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"TP11","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"TP13","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"TP14","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"TP18","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"TP19","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"TP20","1","TP-SM-C-100","","","","TestPoint_Pad_D1.0mm","","Test Point, Surface Mount, Circular, Pad Diameter 1 mm",""
-"U1","1","OPA836IDBVT","","","","Package_TO_SOT_SMD:SOT-23-6_Handsoldering","SOT-23-6","Very Low Power, Rail to Rail Out, Negative Rail In, VFB Operational Amplifier, 2.5 to 5.5 V, -40 to 125 degC, 6-pin SOT23 (DBV6), Green (RoHS & no Sb/Br)","OPA836IDBVT"
-"U2","1","TPL0501-100RSER","","","","Package_DFN_QFN:Texas_UQFN-8_1.5x1.5mm_P0.5mm","UQFN-8","256-Tap, 100 k, Single Channel Potentiometer with SPI Interface, -40 to 125 degC, 8-pin QFN (RSE8), Green (RoHS & no Sb/Br)","TPL0501-100RSER"
-"U3","1","AD8338ACPZ-R7","","","","dz_ana:QFN50P300X300X80-17N","","Variable Gain Amplifier 1 Circuit 16-LFCSP (3x3)","AD8338ACPZ-R7"
-"U4","1","TPS22916CYFPR","","","","dz_iso:YFP0004ABAB","","High Voltage Switch","TPS22916CYFPR"
-"U5","1","TPS22916CYFPR","","","","dz_iso:YFP0004ABAB","","High Voltage Switch","TPS22916CYFPR"
-"U6","1","IXDD604D2TR","","","","dz_ana:IXYS_DFN-8_IXY","","Low-Side Gate Driver IC Non-Inverting 8-DFN-EP (5x4)","IXDD604D2TR"
-"U7","1","OPA836IDBVT","","","","Package_TO_SOT_SMD:SOT-23-6_Handsoldering","SOT-23-6","Very Low Power, Rail to Rail Out, Negative Rail In, VFB Operational Amplifier, 2.5 to 5.5 V, -40 to 125 degC, 6-pin SOT23 (DBV6), Green (RoHS & no Sb/Br)","OPA836IDBVT"
-"U8","1","HV2707T-C/R8X","","","","Package_QFP:LQFP-48_7x7mm_P0.5mm","","Analogue Switch ICs 16-Ch 200V No HV bias switch (SPST), 2 Bleed Resistors","HV2707T-C/R8X"
-"U9","1","TPS22916CYFPR","","","","dz_iso:YFP0004ABAB","","High Voltage Switch","TPS22916CYFPR"
-"U10","1","MD0100N8-G","","","","dz_iso:TO-243AA_MCH","","High Voltage Switch","MD0100N8-G"
-"U11","1","MSP430FR5043IRGCT","","","","Package_DFN_QFN:VQFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm","VQFN-64","MSP430FR5043IRGCT","MSP430FR5043IRGCT"
-"U12","1","LT3463EDD#PBF","","","","Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm","","Boost, Charge Pump Switching Regulator IC Positive and Negative (Dual Rail) Adjustable �1.25V 2 Output 180mA (Switch), 320mA (Switch) 10-WFDFN Exposed Pad","LT3463EDD#PBF"
-"U13","1","TPS22916CYFPR","","","","dz_iso:YFP0004ABAB","","High Voltage Switch","TPS22916CYFPR"
-"U14","1","SN74AVC4T774RSVR","","","","Package_DFN_QFN:UQFN-16_1.8x2.6mm_P0.4mm","","Voltage Level Translator Bidirectional 1 Circuit 4 Channel 380Mbps 16-UQFN (2.6x1.8)","SN74AVC4T774RSVR"
-"U15","1","SN74AVC4T774RSVR","","","","Package_DFN_QFN:UQFN-16_1.8x2.6mm_P0.4mm","","Voltage Level Translator Bidirectional 1 Circuit 4 Channel 380Mbps 16-UQFN (2.6x1.8)","SN74AVC4T774RSVR"
-"U17","1","STM32F303CCTx","","","","Package_QFP:LQFP-48_7x7mm_P0.5mm","","STMicroelectronics Arm Cortex-M4 MCU, 256KB flash, 48KB RAM, 72 MHz, 2.0-3.6V, 37 GPIO, LQFP48","STM32F303CCTx"
-"X1","1","68000-106HLF","","","","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","Pin Header 2.54; 1x06","6 Positions Header, Unshrouded Connector 0.100"" (2.54mm) Through Hole Gold or Gold, GXT™","68000-102HLF"
-"X2","1","68000-106HLF","","","","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","Pin Header 2.54; 1x06","6 Positions Header, Unshrouded Connector 0.100"" (2.54mm) Through Hole Gold or Gold, GXT™","68000-102HLF"
-"X3","1","68000-102HLF","","","","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","Pin Header 2.54; 1x02","2 Positions Header, Unshrouded Connector 0.100"" (2.54mm) Through Hole Gold or Gold, GXT™","68000-102HLF"
-"X4","1","68000-102HLF","","","","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","Pin Header 2.54; 1x02","2 Positions Header, Unshrouded Connector 0.100"" (2.54mm) Through Hole Gold or Gold, GXT™","68000-102HLF"
-"X5","1","68000-102HLF","","","","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","Pin Header 2.54; 1x02","2 Positions Header, Unshrouded Connector 0.100"" (2.54mm) Through Hole Gold or Gold, GXT™","68000-102HLF"
-"X6","1","68000-102HLF","","","","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","Pin Header 2.54; 1x02","2 Positions Header, Unshrouded Connector 0.100"" (2.54mm) Through Hole Gold or Gold, GXT™","68000-102HLF"
-"XTAL2","1","FY0800018","","","","dz_ana:4xtal- 1-3xtal 2-4NC_DIO","","8 MHz �30ppm Crystal 18pF 100 Ohms 4-SMD, No Lead","FY0800018"
-"XTAL3","1","FY0800018","","","","dz_ana:4xtal- 1-3xtal 2-4NC_DIO","","8 MHz �30ppm Crystal 18pF 100 Ohms 4-SMD, No Lead","FY0800018"
-"Y1","1","AWSCR-8.00CV-T","","","","dz_ana:AWSCR-8.00CV-T_ABR","","8 MHz Ceramic Resonator Built in Capacitor 22 pF �0.4% 30 Ohms -25�C ~ 85�C Surface Mount","AWSCR-8.00CV-T"
-"Y2","1","ABS05-32.768KHZ-9-T","","","","dz_ana:XTAL_ABS05-32.768KHZ-9-T","","Crystal 32.768kHz 9pF SMD 1.6x1.0mm","ABS05-32.768KHZ-9-T"
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,CASE/PACKAGE,Description,MPN
+C1,1,1.5pf,,,,Capacitor_SMD:C_0402_1005Metric,0402,GJM1555C1H1R5BB01D,GJM1555C1H1R5BB01D
+"C2,C14,C15,C16,C24,C26,C32,C46,C47,C48,C49,C68,C69,C70,C71,C81,C82,C83,C85,C87",20,"0.1 uF,100nF",,,,Capacitor_SMD:C_0402_1005Metric,0402,C0402C104K4RACTU,C0402C104K4RACTU
+"C3,C7",2,10 nf,,,,Capacitor_SMD:C_0402_1005Metric,0402,VJ0402Y103JXJAC,VJ0402Y103JXJAC
+"C4,C5,C18,C38,C40,C41,C50",7,"1 nf,1000 pF 50V",,,,Capacitor_SMD:C_0402_1005Metric,0402,GRM1555C1H102JA01D,GRM1555C1H102JA01D
+C6,1,3.3 nf,,,,Capacitor_SMD:C_0402_1005Metric,0402,04025C332JAT2A,04025C332JAT2A
+"C8,C9,C10,C12,C13,C23,C25,C27,C35,C43,C44,C45,C51,C74",14,2.2 uF,,,,Capacitor_SMD:C_0402_1005Metric,0402,C1005X7S1A225K050BC,C1005X7S1A225K050BC
+"C11,C39,C42",3,47 uF,,,,Capacitor_SMD:C_0603_1608Metric,0603,GRM188R60J476ME01D,GRM188R60J476ME01D
+C17,1,2.2uF,,,,Capacitor_SMD:C_0402_1005Metric,,Cap 2.2uF 25V 0402 X5R ±10%,GRM155R61E225KE11
+"C19,C20",2,10 pf 50V,,,,Capacitor_SMD:C_0402_1005Metric,0402,GRM1555C1H100JA01D,GRM1555C1H100JA01D
+"C21,C56,C57,C58,C60,C61,C62",7,2.2 uF 50V,,,,Capacitor_SMD:C_0603_1608Metric,0603,GRM188R61H225ME11D,GRM188R61H225ME11D
+C22,1,100 pf,DNP,,,Capacitor_SMD:C_0402_1005Metric,0402,04025A101FAT2A,04025A101FAT2A
+"C28,C29,C33,C34",4,2.2 uF 50V,,,,Capacitor_SMD:C_0603_1608Metric,0603,GRM188R61H225ME11,GRM188R61H225ME11
+"C36,C37",2,47 nf 50V,,,,Capacitor_SMD:C_0402_1005Metric,0402,GRM155R71H473ME14D,GRM155R71H473ME14D
+"C52,C53,C54,C55,C72,C73,C88,C89",8,12 pF 50V,,,,Capacitor_SMD:C_0402_1005Metric,0402,GJM1555C1H120GB01D,GJM1555C1H120GB01D
+C59,1,1 uF 50V,,,,Capacitor_SMD:C_0805_2012Metric,0805,GCM21BR71H105KA03L,GCM21BR71H105KA03L
+C63,1,0.1 uF 50V,,,,Capacitor_SMD:C_0402_1005Metric,0402,GRM155C71H104KE19D,GRM155C71H104KE19D
+"C64,C65,C66,C67,C86",5,1 uF 10V,,,,Capacitor_SMD:C_0402_1005Metric,0402,GRM155Z71A105KE01D,GRM155Z71A105KE01D
+C84,1,4.7uF,,,,Capacitor_SMD:C_0402_1005Metric,0402,MLASL105BB5475MFNB33,MLASL105BB5475MFNB33
+D1,1,BAV99T-7-F,,,,Package_TO_SOT_SMD:SOT-523,SOT-523,DIODE ARRAY GP 85V 75MA SOT523,BAV99T-7-F
+D2,1,APHD1608LZGCK,,,,LED_SMD:LED_0603_1608Metric,0603,LED GREEN CLEAR 1608 SMD,APHD1608LZGCK
+D3,1,ZHCS400QTA,,,,Diode_SMD:D_SOD-323,SOD-323,Schottky Diode 40V 1A,ZHCS400QTA
+"FB1,FB2,FB3,FB4",4,100Ω@100MHz,,,,Inductor_SMD:L_0603_1608Metric,,Ferrite Bead 100Ω@100MHz 40Ω@10MHz 3.7A 0603,BLM18SP101SN1
+FB6,1,600Ω@100MHz,,,,Inductor_SMD:L_0603_1608Metric,,Ferrite Bead 600Ω@100MHz 0.5A 0603,BLM18AG601SZ1
+"J1,J5",2,DF52-16S-0.8H(21),,,,dz_con:CONN_DF52-16S-0.8H21_HIR,,"16 Position Socket Connector 0.031"" (0.80mm) Surface Mount, Right Angle Tin",DF52-16S-0.8H(21)
+J2,1,DF40C-40DS-0.4V(51),,,,Connector_Hirose_DF40:Hirose_DF40C-40DS-0.4V_2x20_P0.4mm,,"40 Position 0.4mm Pitch Dual Row Vertical Surface Mount (SMT) Pin Socket, 1.5mm Stacking Height",DF40C-40DS-0.4V(51)
+J3,1,3220-10-0300-00,,,,dz_con:CNC_3220-10-0300-00,,Conn Header 1.27mm 10 Position Dual Row Vertical,3220-10-0300-00
+J6,1,5051100892,,,,dz_con:CON_5051100892_MOL,,"8 Position FFC, FPC Connector Contacts, Bottom 0.020"" (0.50mm) Surface Mount, Right Angle",5051100892
+"J8,J9",2,U.FL-R-SMT-1(10),,,,dz_con:HRS_U.FL-R-SMT-1_10_,,"U.FL (UMCC) Connector Receptacle, Male Pin 50 Ohms Surface Mount Solder",U.FL-R-SMT-1(10)
+J11,1,DF40HC(3.0)-50DS-0.4V(51),,,,dz_con:CONN_DF40HC3.0-50DS-0.4V51_HIR,,"50 Position Connector Receptacle, Center Strip Contacts Surface Mount Gold",DF40HC(3.0)-50DS-0.4V(51)
+"L1,L2",2,742792040,,,,Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder,0805,"SMD EMI Suppression Ferrite Bead WE-CBF, Z = 600 Ohm",742792040
+"L3,L4",2,10uH,,,,dz_ind:IND_LQH3NPZ100MMEL,1212,Ind 10uH 1.28A 1212 Shielded,LQH3NPZ100MMEL
+Q1,1,NX7002BKMBYL,,,,Package_DFN_QFN:Diodes_DFN1006-3,,"N-Channel 60 V 350mA (Ta) 350mW (Ta), 3.1W (Tc) Surface Mount DFN1006B-3",NX7002BKMBYL
+R1,1,1.3k,,,,R_0402_1005Metric,0402,CRCW04021K30JNED,CRCW04021K30JNED
+"R2,R3",2,2k,,,,R_0402_1005Metric,0402,ERJ-2RKF2001X,ERJ-2RKF2001X
+R4,1,2.7k,,,,R_0402_1005Metric,0402,MCS04020C2701FE000,MCS04020C2701FE000
+"R5,R6,R8,R10,R16,R17,R18,R19,R24,R27,R46",11,0 Ohm,DNP,,,R_0402_1005Metric,0402,CRCW04020000Z0ED,CRCW04020000Z0ED
+"R7,R20,R33,R34",4,400,,,,R_0402_1005Metric,0402,CRCW04021R00FKEDC,CRCW04021R00FKEDC
+R9,1,47k,,,,R_0402_1005Metric,0402,CRCW040247K0JNEE,CRCW040247K0JNEE
+"R11,R13,R15,R21,R41,R42",6,10k,,,,R_0402_1005Metric,0402,CRCW040210K0JNED,CRCW040210K0JNED
+R12,1,51,,,,R_0402_1005Metric,0402,CRCW040251R0JNED,CRCW040251R0JNED
+R14,1,0 Ohm,,,,R_0603_1608Metric,0603,ERJ-3GEY0R00V,ERJ-3GEY0R00V
+"R22,R44,R47,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R66,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78,R79,R80,R81,R82,R83,R84,R85,R86,R87,R88,R89,R90,R91,R92,R93,R94,R95,R96,R97,R98,R99,R100,R101,R102,R104,R105,R107,R108,R109,R110,R111,R112,R113,R114",68,0,DNP,,,Resistor_SMD:R_0402_1005Metric,,Res 0Ω 0.1W 0402 Thick Film jumper,ERJ-2GE0R00X
+R23,1,3k 1/3W,,,,R_0603_1608Metric,0603,ERJ-PA3J302V,ERJ-PA3J302V
+"R25,R29",2,390k,,,,R_0402_1005Metric,0402,RC1005F394CS,RC1005F394CS
+"R26,R28,R45",3,100k,,,,R_0402_1005Metric,0402,ERJ-2RKF1003X,ERJ-2RKF1003X
+"R30,R31",2,CRCW04021M00FKED,,,,R_0402_1005Metric,0402,"RES Thick Film, 1MΩ, 1%, 0.063W, 100ppm/°C, 0402",CRCW04021M00FKED
+"R32,TP1,TP2,TP3,TP4,TP6,TP8,TP9,TP10,TP11,TP13,TP14,TP18,TP19,TP20",15,"10k,TP-SM-C-100",,,,"R_0402_1005Metric,TestPoint_Pad_D1.0mm",0402,"CRCW040210K0JNED,Test Point, Surface Mount, Circular, Pad Diameter 1 mm",
+R35,1,CRCW040247K0FKED,,,,R_0402_1005Metric,0402,"RES Thick Film, 47kΩ, 1%, 0.063W, 100ppm/°C, 0402",CRCW040247K0FKED
+R36,1,324R,,,,R_0402_1005Metric,0402,CPF0402B324RE1,CPF0402B324RE1
+"R37,R103",2,22R,,,,R_0402_1005Metric,0402,RC0402JR-0722RL,RC0402JR-0722RL
+"R38,R43",2,1MΩ,,,,R_0402_1005Metric,0402,ERJ-2RKF1004X,ERJ-2RKF1004X
+R39,1,43.2 kΩ,,,,R_0402_1005Metric,0402,ERJ-2RKF4322X,ERJ-2RKF4322X
+R40,1,41.2 kΩ,,,,R_0402_1005Metric,0402,ERJ-2RKF4122X,ERJ-2RKF4122X
+"R106,R116",2,220,,,,Resistor_SMD:R_0402_1005Metric,,Res 220Ω 0.1W 0402 Thick Film 1%,ERJ-2RKF2200X
+R115,1,3k,,,,Resistor_SMD:R_0402_1005Metric,,Res 3kΩ 0.33W 0402 Thick Film 1%,CRCW06033K00FKEAHP
+SW1,1,Button Switch SPST-No,,,,Button_Switch_SMD:SW_SPST_B3U-1000P,,Tactile Switch SPST-NO Top Actuated Surface Mount 50mA 12V SMD,B3U-1000P
+"U1,U7",2,OPA836IDBVT,,,,Package_TO_SOT_SMD:SOT-23-6_Handsoldering,SOT-23-6,"Very Low Power, Rail to Rail Out, Negative Rail In, VFB Operational Amplifier, 2.5 to 5.5 V, -40 to 125 degC, 6-pin SOT23 (DBV6), Green (RoHS & no Sb/Br)",OPA836IDBVT
+U2,1,TPL0501-100RSER,,,,Package_DFN_QFN:Texas_UQFN-8_1.5x1.5mm_P0.5mm,UQFN-8,"256-Tap, 100 k, Single Channel Potentiometer with SPI Interface, -40 to 125 degC, 8-pin QFN (RSE8), Green (RoHS & no Sb/Br)",TPL0501-100RSER
+U3,1,AD8338ACPZ-R7,,,,dz_ana:QFN50P300X300X80-17N,,Variable Gain Amplifier 1 Circuit 16-LFCSP (3x3),AD8338ACPZ-R7
+"U4,U5,U9,U13",4,TPS22916CYFPR,,,,dz_iso:YFP0004ABAB,,High Voltage Switch,TPS22916CYFPR
+U6,1,IXDD604D2TR,,,,dz_ana:IXYS_DFN-8_IXY,,Low-Side Gate Driver IC Non-Inverting 8-DFN-EP (5x4),IXDD604D2TR
+U8,1,HV2707T-C/R8X,,,,Package_QFP:LQFP-48_7x7mm_P0.5mm,,"Analogue Switch ICs 16-Ch 200V No HV bias switch (SPST), 2 Bleed Resistors",HV2707T-C/R8X
+U10,1,MD0100N8-G,,,,dz_iso:TO-243AA_MCH,,High Voltage Switch,MD0100N8-G
+U11,1,MSP430FR5043IRGCT,,,,Package_DFN_QFN:VQFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm,VQFN-64,MSP430FR5043IRGCT,MSP430FR5043IRGCT
+U12,1,LT3463EDD#PBF,,,,Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm,,"Boost, Charge Pump Switching Regulator IC Positive and Negative (Dual Rail) Adjustable �1.25V 2 Output 180mA (Switch), 320mA (Switch) 10-WFDFN Exposed Pad",LT3463EDD#PBF
+"U14,U15",2,SN74AVC4T774RSVR,,,,Package_DFN_QFN:UQFN-16_1.8x2.6mm_P0.4mm,,Voltage Level Translator Bidirectional 1 Circuit 4 Channel 380Mbps 16-UQFN (2.6x1.8),SN74AVC4T774RSVR
+U17,1,STM32F303CCTx,,,,Package_QFP:LQFP-48_7x7mm_P0.5mm,,"STMicroelectronics Arm Cortex-M4 MCU, 256KB flash, 48KB RAM, 72 MHz, 2.0-3.6V, 37 GPIO, LQFP48",STM32F303CCTx
+"X1,X2,X3,X4,X5,X6",6,"68000-102HLF,68000-106HLF",,,,"Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","Pin Header 2.54; 1x02,Pin Header 2.54; 1x06","2 Positions Header, Unshrouded Connector 0.100"" (2.54mm) Through Hole Gold or Gold, GXT™,6 Positions Header, Unshrouded Connector 0.100"" (2.54mm) Through Hole Gold or Gold, GXT™",68000-102HLF
+"XTAL2,XTAL3",2,FY0800018,,,,dz_ana:4xtal- 1-3xtal 2-4NC_DIO,,"8 MHz �30ppm Crystal 18pF 100 Ohms 4-SMD, No Lead",FY0800018
+Y1,1,AWSCR-8.00CV-T,,,,dz_ana:AWSCR-8.00CV-T_ABR,,8 MHz Ceramic Resonator Built in Capacitor 22 pF �0.4% 30 Ohms -25�C ~ 85�C Surface Mount,AWSCR-8.00CV-T
+Y2,1,ABS05-32.768KHZ-9-T,,,,dz_ana:XTAL_ABS05-32.768KHZ-9-T,,Crystal 32.768kHz 9pF SMD 1.6x1.0mm,ABS05-32.768KHZ-9-T
