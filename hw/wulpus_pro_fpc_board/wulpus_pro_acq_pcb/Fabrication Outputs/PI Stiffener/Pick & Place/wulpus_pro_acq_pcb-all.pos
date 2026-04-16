@@ -1,4 +1,4 @@
-### Footprint positions - created on 2026-04-10T12:14:33 ###
+### Footprint positions - created on 2026-04-16T18:06:07 ###
 ### Printed by KiCad version 10.0.0
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -22,10 +22,10 @@ C40       1_nf                        C_0402_1005Metric                         
 C41       1_nf                        C_0402_1005Metric                              78.1500   -87.8000  180.0000  bottom
 C42       47_uF                       C_0603_1608Metric                              80.5500   -88.0000    0.0000  bottom
 C43       2.2_uF                      C_0402_1005Metric                              71.9000   -86.2500    0.0000  bottom
-C44       2.2_uF                      C_0402_1005Metric                              74.7200   -75.3000    0.0000  bottom
+C44       2.2_uF                      C_0402_1005Metric                              74.7200   -75.1500    0.0000  bottom
 C45       2.2_uF                      C_0402_1005Metric                              83.0000   -87.0500  180.0000  bottom
 C46       0.1_uF                      C_0402_1005Metric                              73.3000   -87.5000  -90.0000  bottom
-C47       0.1_uF                      C_0402_1005Metric                              74.7200   -76.2500  180.0000  bottom
+C47       0.1_uF                      C_0402_1005Metric                              74.7200   -76.1000  180.0000  bottom
 C48       0.1_uF                      C_0402_1005Metric                              83.0000   -88.0000    0.0000  bottom
 C51       2.2_uF                      C_0402_1005Metric                              91.8200  -118.4000  180.0000  bottom
 C52       12_pF_50V                   C_0402_1005Metric                              71.0000   -93.5500  180.0000  bottom
@@ -217,7 +217,7 @@ R59       0                           R_0402_1005Metric                         
 R60       0                           R_0402_1005Metric                              70.0956   -83.1115   90.0000  top
 R61       0                           R_0402_1005Metric                              71.5000   -82.6500  180.0000  top
 R63       0                           R_0402_1005Metric                              77.0700   -88.3500  -90.0000  top
-R65       0                           R_0402_1005Metric                              82.1000   -90.5500  -90.0000  top
+R65       0                           R_0402_1005Metric                              82.2000   -90.5500  -90.0000  top
 R67       0                           R_0402_1005Metric                              83.4500   -90.5500  -90.0000  top
 R69       0                           R_0402_1005Metric                              81.2000   -75.2700   90.0000  top
 R71       0                           R_0402_1005Metric                              84.9000   -84.6000    0.0000  top
