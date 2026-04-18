@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/iker/Projects/ETHZ/Semester Project/Nucleo-F303RE/build/Debug/cmake_install.cmake",
+		"/Users/iker/Projects/ETHZ/Semester Project/Nucleo-F303RE/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
